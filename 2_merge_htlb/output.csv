@@ -4,21 +4,21 @@ Symphony,2012-08-30,Shooter,Empty Clip Studios,Empty Clip Studios,0,7.0,Good,115
 Thirty Flights of Loving,2012-08-29,Adventure,Blendo Games,Blendo Games,0,8.0,Great,934,616,0,0,150000,3.99,0.31,0.55,0.7,0.41
 Worms Revolution,2012-10-02,Strategy,Team17 Digital Ltd,Team17 Digital Ltd,0,8.5,Great,3922,686,445,259,1500000,10.99,18.92,32.51,49.87,26.62
 Shad'O,2012-09-28,Adventure,Okugi Studio,Okugi Sudio,0,7.0,Good,50,42,58,58,35000,3.99,6.11,10.32,21.75,10.81
-Counter-Strike: Global Offensive,2012-08-27,Shooter,Valve;Hidden Path Entertainment,Valve,0,8.0,Great,2644404,402313,22494,6502,75000000,0.0,120.95,365.22,770.78,413.14
+Counter-Strike: Global Offensive,2012-08-27,Shooter,Valve;Hidden Path Entertainment,Valve,0,8.0,Great,2644404,402313,22494,6502,75000000,0.0,120.95,365.22,775.31,414.88
 Hotline Miami,2012-10-26,Action,Dennaton Games,Devolver Digital,18,8.8,Great,45809,1211,380,237,3500000,6.99,5.24,7.32,15.21,6.76
 Edna & Harvey: Harvey's New Eyes,2012-10-26,Adventure,Daedalic Entertainment,Daedalic Entertainment,0,6.0,Okay,1674,162,170,268,350000,15.99,7.48,8.53,9.71,8.28
 Doom 3: BFG Edition,2012-10-25,RPG,id Software,Bethesda Softworks,18,7.6,Good,3957,772,644,985,750000,14.99,9.53,15.98,37.78,13.84
-Borderlands 2: Captain Scarlett and her Pirate's Booty,2012-10-18,"Shooter, RPG",Gearbox Software,2K,18,7.5,Good,144595,11021,3276,1139,7500000,19.99,3.96,6.69,10.48,6.3
+Borderlands 2: Captain Scarlett and her Pirate's Booty,2012-10-18,"Shooter, RPG",Gearbox Software;Aspyr (Mac);Aspyr (Linux),2K;Aspyr (Mac);Aspyr (Linux),18,7.5,Good,144595,11021,3276,1139,7500000,19.99,3.96,6.69,10.48,6.3
 Torchlight II,2012-09-20,"Action, RPG",Runic Games,Runic Games,0,9.1,Amazing,29539,1757,1037,508,3500000,14.99,20.71,29.37,80.35,27.71
 Iron Brigade,2012-08-15,Action,Double Fine Productions,Double Fine Productions,0,9.0,Amazing,573,124,21,31,150000,10.99,6.44,12.81,19.46,8.39
 Cortex Command,2012-10-09,"Action, Simulation",Data Realms,"Data Realms, LLC",0,5.0,Mediocre,3119,1454,199,229,1500000,14.99,1.67,4.11,12.91,6.5
-XCOM: Enemy Unknown,2012-10-08,Strategy,Firaxis Games,2K,12,8.2,Great,36630,2072,1470,1049,3500000,14.99,26.66,37.96,68.4,34.09
+XCOM: Enemy Unknown,2012-10-08,Strategy,Firaxis Games;Feral Interactive (Mac);Feral Interactive (Linux),2K;Feral Interactive (Mac);Feral Interactive (Linux),12,8.2,Great,36630,2072,1470,1049,3500000,14.99,26.66,37.96,68.4,34.09
 They Bleed Pixels,2012-09-18,Platformer,Spooky Squid Games Inc.,Spooky Squid Games Inc.,0,8.2,Great,1965,327,300,390,350000,6.99,8.75,11.57,17.25,10.42
 F1 2012,2012-09-17,Racing,Codemasters Birmingham,Codemasters,0,9.0,Amazing,1447,176,1623,2887,350000,14.99,39.4,52.38,81.22,45.27
 Dishonored,2012-10-07,Action,Arkane Studios,Bethesda Softworks,0,9.2,Amazing,41756,1269,749,565,3500000,7.99,12.15,18.46,37.51,16.45
 Colour Bind,2012-10-15,,Finn Morgan,Puppy Punch Productions,0,6.2,Okay,23,10,0,0,10000,6.99,7.85,11.2,0.0,8.48
 Snapshot,2012-09-17,Platformer,Retro Affect,Retro Affect,0,5.0,Mediocre,161,61,89,89,350000,6.99,4.5,9.07,20.24,9.61
-Borderlands 2,2012-09-13,"Shooter, RPG",Gearbox Software,2K,18,9.0,Amazing,144595,11021,3276,1139,7500000,19.99,30.13,54.87,130.35,52.57
+Borderlands 2,2012-09-13,"Shooter, RPG",Gearbox Software;Aspyr (Mac);Aspyr (Linux),2K;Aspyr (Mac);Aspyr (Linux),18,9.0,Amazing,144595,11021,3276,1139,7500000,19.99,30.13,54.87,130.35,52.57
 Hell Yeah! Wrath of the Dead Rabbit,2012-10-04,Platformer,Arkedo,SEGA,12,4.9,Bad,2712,434,188,146,1500000,9.99,7.41,8.78,9.66,8.56
 Pid,2012-10-30,Platformer,Might and Delight,Might and Delight,0,7.8,Good,2021,370,61,65,750000,6.99,9.48,12.3,17.66,10.65
 Chivalry: Medieval Warfare,2012-10-29,Adventure,Torn Banner Studios,Torn Banner Studios,0,7.9,Good,51499,10939,675,293,7500000,18.99,13.93,34.02,172.15,60.68
@@ -27,7 +27,7 @@ Lucius,2012-11-06,Adventure,Shiver Games,Shiver Games,18,6.0,Okay,5775,1400,172,
 Primal Carnage,2012-11-05,Shooter,Lukewarm Media,Reverb Triple XP;Circle 5,0,7.6,Good,4447,1323,423,470,350000,5.59,6.01,10.0,20.0,11.2
 Natural Selection 2,2012-11-05,Shooter,Unknown Worlds Entertainment,Unknown Worlds Entertainment,0,8.0,Great,8372,1498,627,253,1500000,6.99,0.0,181.5,0.0,181.5
 Waking Mars,2012-11-19,Action,Tiger Style,Tiger Style,0,6.5,Okay,919,113,229,229,350000,6.99,6.71,8.29,8.77,8.22
-Hitman: Absolution,2012-11-18,Action,Io-Interactive A/S,Io-Interactive A/S,18,9.0,Amazing,23277,2478,650,400,3500000,14.99,12.39,19.71,36.86,16.02
+Hitman: Absolution,2012-11-18,Action,Io-Interactive A/S;Feral Interactive (Mac),Io-Interactive A/S;Feral Interactive (Mac),18,9.0,Amazing,23277,2478,650,400,3500000,14.99,12.39,19.71,36.86,16.02
 Guns of Icarus Online,2012-11-16,Shooter,Muse Games,Muse Games,0,7.3,Good,12932,1276,275,295,3500000,3.99,6.02,45.75,0.0,13.8
 Miner Wars 2081,2012-12-14,Shooter,Keen Software House,Keen Software House,0,5.0,Mediocre,110,212,0,0,75000,3.99,11.92,0.0,0.0,11.92
 PlanetSide 2,2012-11-30,Shooter,Daybreak Game Company,Daybreak Game Company,0,9.0,Amazing,35968,7753,1051,150,7500000,0.0,27.2,464.82,6371.06,225.69
@@ -53,14 +53,14 @@ Heroes of Annihilated Empires,2006-11-22,Strategy,GSC Game World,GSC Game World,
 S.T.A.L.K.E.R.: Shadow of Chernobyl,2007-03-19,Shooter,GSC Game World,GSC Game World,0,8.2,Great,11039,570,493,360,1500000,9.99,15.07,24.43,42.23,21.58
 Silverfall,2007-04-04,"Action, RPG",Monte Cristo,Focus Home Interactive,0,5.5,Mediocre,57,36,0,0,35000,7.99,18.38,23.33,0.0,20.97
 Lost Planet: Extreme Condition,2007-06-29,Action,"CAPCOM Co., Ltd.",Capcom,0,5.8,Mediocre,569,178,74,74,350000,9.99,8.03,9.56,20.83,8.47
-Medieval II: Total War Kingdoms,2007-09-10,Strategy,The Creative Assembly,SEGA,0,8.4,Great,585,30,0,0,350000,0.0,20.84,109.78,167.61,55.79
+Medieval II: Total War Kingdoms,2007-09-10,Strategy,The Creative Assembly;Feral Interactive (Mac);Feral Interactive (Linux),SEGA;Feral Interactive (Mac);Feral Interactive (Linux),0,8.4,Great,585,30,0,0,350000,0.0,20.84,109.78,167.61,55.79
 Company of Heroes: Opposing Fronts,2007-09-28,Strategy,Relic Entertainment,SEGA,0,8.8,Great,579,52,79,106,3500000,9.99,13.47,16.08,39.49,16.37
 Ducati World Championship,2007-09-25,Racing,Artematica Entertainment,Strategy First,0,3.0,Awful,77,100,0,0,35000,3.99,9.0,11.17,13.33,11.17
 Team Fortress 2,2007-10-09,Shooter,Valve,Valve,0,8.9,Great,515879,34036,8495,623,35000000,0.0,293.02,604.04,2616.46,603.19
 Loki: Heroes of Mythology,2007-10-15,"Action, RPG",Cyanide Studios,Focus Home Interactive,0,6.0,Okay,69,54,0,0,35000,6.99,24.83,40.3,120.0,37.56
 Half-Life 2: Episode Two,2007-10-09,Shooter,Valve,Valve,0,9.4,Amazing,13902,696,354,301,7500000,5.79,5.1,6.06,8.85,5.69
-Portal,2007-10-09,Shooter,Valve,Valve,0,8.2,Great,51801,1080,288,137,15000000,7.19,3.12,5.24,10.39,3.91
-Call of Duty 4: Modern Warfare,2007-11-05,Shooter,Infinity Ward,Activision,0,9.4,Amazing,8725,821,1417,1503,1500000,19.99,6.9,9.36,16.29,7.53
+Portal,2007-10-09,Shooter,Valve,Valve,0,8.2,Great,51801,1080,288,137,15000000,7.19,3.12,5.25,10.39,3.91
+Call of Duty 4: Modern Warfare,2007-11-05,Shooter,Infinity Ward;Aspyr (Mac),Activision;Aspyr (Mac),0,9.4,Amazing,8725,821,1417,1503,1500000,19.99,6.9,9.36,16.29,7.53
 RACE 07,2007-11-07,Racing,SimBin,SimBin,0,8.5,Great,1684,348,1636,218,1500000,2.49,6.55,21.77,0.0,9.19
 Conflict: Denied Ops,2008-02-25,Shooter,Pivotal Games,Square Enix,0,4.0,Bad,89,103,0,0,75000,3.99,6.01,11.13,0.0,6.24
 The Club,2008-02-29,Action,Bizarre Creations,SEGA,0,6.9,Okay,47,50,0,0,35000,9.99,4.42,5.62,9.23,4.88
@@ -108,7 +108,7 @@ Luxor: Quest for the Afterlife,2009-01-12,Puzzle,MumboJumbo,MumboJumbo,0,6.0,Oka
 F.E.A.R. 2: Project Origin,2009-02-10,Shooter,Monolith,Warner Bros. Interactive Entertainment,0,8.3,Great,3274,509,301,367,1500000,9.99,7.12,8.7,10.73,7.75
 Puzzle Quest: Galactrix,2009-03-02,Puzzle,Infinite Interactive,"D3Publisher of America, Inc.",0,8.5,Great,120,136,0,0,35000,6.99,14.97,20.17,21.39,19.99
 Drakensang: The Dark Eye,2009-02-23,RPG,Radon Labs,DTP Entertainment,0,7.6,Good,238,72,0,0,150000,6.99,31.73,49.96,60.45,50.09
-"Warhammer 40,000: Dawn of War II",2009-02-17,Strategy,Relic Entertainment,SEGA,0,9.0,Amazing,5626,755,628,293,3500000,14.99,15.18,21.98,49.53,20.43
+"Warhammer 40,000: Dawn of War II",2009-02-17,Strategy,Relic Entertainment;Feral Interactive (Mac/Linux),SEGA;Feral Interactive (Mac/Linux),0,9.0,Amazing,5626,755,628,293,3500000,14.99,15.18,21.98,49.53,20.43
 Tom Clancy's EndWar,2009-03-03,Strategy,Ubisoft  Shanghaï,Ubisoft,0,7.0,Good,276,108,384,655,150000,8.59,10.82,28.04,72.65,14.33
 Watchmen: The End is Nigh -- Part 1,2009-03-05,Action,Deadline Games,Warner Bros. Interactive Entertainment,0,5.5,Mediocre,227,120,0,0,35000,3.99,2.92,3.13,3.47,2.99
 The Maw,2009-03-11,Action,Twisted Pixel Games,Twisted Pixel Games,0,8.0,Great,161,36,14,14,75000,8.99,3.09,3.89,5.05,3.93
@@ -138,7 +138,7 @@ Delta Force: Xtreme 2,2009-06-12,Shooter,NovaLogic,NovaLogic;THQ Nordic,0,4.8,Ba
 Delta Force: Xtreme 2,2009-06-12,Shooter,NovaLogic,NovaLogic;THQ Nordic,0,4.8,Bad,258,23,0,0,35000,0.0,3.35,3.49,4.96,3.73
 Yosumin!,2009-06-22,Puzzle,Square Enix,Square Enix,0,7.1,Good,102,64,0,0,150000,3.99,9.07,0.0,17.19,10.26
 Light of Altair,2009-06-16,Simulation,SaintXi,SaintXi,0,7.0,Good,31,7,0,0,35000,11.99,0.0,14.75,0.0,14.75
-Overlord II,2009-06-25,Adventure,Triumph Studios;Virtual Programming,Codemasters,0,6.3,Okay,2116,306,197,119,1500000,6.99,16.42,20.39,26.84,20.02
+Overlord II,2009-06-25,Adventure,Triumph Studios;Virtual Programming,Codemasters,0,6.3,Okay,2116,306,197,119,1500000,6.99,16.42,20.39,26.85,20.17
 Blueberry Garden,2009-06-25,Other,Erik Svedäng,Erik Svedäng,0,6.0,Okay,96,28,9,9,35000,3.99,1.3,1.21,1.32,1.29
 America's Army 3,2009-07-02,Shooter,U.S. Army,U.S. Army,0,8.4,Great,1515,723,12,13,750000,0.0,0.0,0.0,512.3,512.3
 Nancy Drew: Ransom of the Seven Ships,2009-07-20,Adventure,HeR Interactive,HeR Interactive,0,7.3,Good,24,3,0,0,10000,5.19,6.42,7.93,9.82,7.81
@@ -167,7 +167,7 @@ Tropico 3,2009-10-16,Strategy,Haemimont Games,Kalypso Media Digital,0,8.4,Great,
 Machinarium,2009-10-20,Adventure,Amanita Design,Amanita Design,0,8.1,Great,5437,264,165,241,750000,7.99,5.12,5.38,5.98,5.31
 Star Wars: The Force Unleashed -- Ultimate Sith Edition,2009-11-02,Action,Krome Studios,LucasArts;Lucasfilm;Disney Interactive,0,7.5,Good,166,279,2,2,750000,15.49,8.09,11.03,17.05,9.58
 Dragon Age: Origins,2009-11-03,RPG,BioWare,Electronic Arts,0,9.0,Amazing,6207,468,2061,2889,750000,14.99,40.34,57.93,86.9,56.29
-Call of Duty: Modern Warfare 2,2009-11-10,Shooter,Infinity Ward,Activision,0,9.5,Amazing,30006,2826,999,580,7500000,19.99,6.61,10.66,31.2,8.88
+Call of Duty: Modern Warfare 2,2009-11-10,Shooter,Infinity Ward;Aspyr (Mac),Activision;Aspyr (Mac),0,9.5,Amazing,30006,2826,999,580,7500000,19.99,6.61,10.66,31.2,8.88
 Painkiller: Resurrection,2009-11-09,Shooter,Homegrown Games,THQ Nordic,0,2.6,Painful,90,181,0,0,150000,8.99,4.96,8.21,13.57,5.66
 Dragon Age: Origins (Collector's Edition),2009-11-03,RPG,BioWare,Electronic Arts,0,9.0,Amazing,6207,468,2061,2889,750000,14.99,40.34,57.93,86.9,56.29
 Torchlight,2009-11-18,"Action, RPG",Runic Games,Runic Games,0,8.6,Great,3825,317,1108,1144,1500000,10.99,14.21,21.37,48.49,19.19
@@ -185,7 +185,7 @@ Battlefield: Bad Company 2 (Limited Edition),2010-03-02,Shooter,DICE,Electronic 
 Battlefield: Bad Company 2,2010-03-02,Shooter,DICE,Electronic Arts,0,8.9,Great,23093,3877,1200,671,3500000,14.99,6.91,10.31,18.43,7.81
 Just Cause 2,2010-03-23,Action,Avalanche Studios,Square Enix,18,8.8,Great,33636,3231,519,272,3500000,9.99,17.71,34.55,85.79,30.79
 Command & Conquer 4: Tiberian Twilight,2010-03-18,Strategy,EA Los Angeles,Electronic Arts,0,7.4,Good,378,1712,160,267,350000,9.99,8.32,10.08,12.21,9.06
-"Warhammer 40,000: Dawn of War II -- Chaos Rising",2010-03-17,Strategy,Relic Entertainment,SEGA,16,8.5,Great,1645,164,186,249,1500000,14.99,10.29,13.46,17.07,11.64
+"Warhammer 40,000: Dawn of War II -- Chaos Rising",2010-03-17,Strategy,Relic Entertainment;Feral Interactive (Mac/Linux),SEGA;Feral Interactive (Mac/Linux),16,8.5,Great,1645,164,186,249,1500000,14.99,10.29,13.46,17.07,11.64
 Lead and Gold: Gangs of the Wild West,2010-05-06,Shooter,Fatshark,Fatshark,16,7.0,Good,1471,545,112,128,750000,7.99,0.0,0.0,33.0,33.0
 Grand Theft Auto: Episodes from Liberty City,2010-04-16,Compilation,Rockstar North / Toronto,Rockstar Games,18,9.2,Amazing,6401,2345,508,112,3500000,14.99,18.75,25.85,42.87,22.73
 Mount & Blade: Warband,2010-04-13,RPG,TaleWorlds Entertainment,TaleWorlds Entertainment,0,8.1,Great,75872,2213,7932,1884,3500000,14.99,74.27,111.45,243.39,121.02
@@ -203,7 +203,7 @@ Lara Croft and the Guardian of Light,2010-10-20,"Action, Adventure",Crystal Dyna
 Fallout: New Vegas,2010-10-19,RPG,Obsidian Entertainment,Bethesda Softworks,18,9.0,Amazing,66756,3149,2485,1431,3500000,7.99,26.95,60.15,131.77,57.6
 Lost Planet 2,2010-10-18,Shooter,"CAPCOM CO., LTD.",Capcom,0,6.0,Okay,998,504,879,879,150000,12.99,10.08,14.03,26.05,11.48
 Recettear: An Item Shop's Tale,2010-09-21,RPG,EasyGameStation,Carpe Fulgur LLC,0,7.5,Good,5047,183,764,1136,350000,12.99,13.25,25.14,48.49,17.14
-Sid Meier's Civilization V,2010-09-20,Strategy,Firaxis Games,2K,0,9.0,Amazing,129030,5565,4760,1797,7500000,19.99,40.03,124.87,435.5,98.12
+Sid Meier's Civilization V,2010-09-20,Strategy,Firaxis Games;Aspyr (Mac);Aspyr (Linux),2K;Aspyr (Mac);Aspyr (Linux),0,9.0,Amazing,129030,5565,4760,1797,7500000,19.99,40.03,124.87,435.5,98.12
 Front Mission Evolved,2010-10-01,Shooter,Double Helix Games,Square Enix,0,6.0,Okay,481,310,312,312,350000,7.99,7.44,10.77,18.27,8.21
 Arcania: Gothic IV,2010-10-12,"Action, RPG",Spellbound Studios,THQ Nordic,0,7.5,Good,735,763,398,571,350000,17.99,15.44,21.39,33.15,21.21
 Medal of Honor,2010-10-12,Shooter,Electronic Arts,Electronic Arts,0,6.5,Okay,3209,1370,133,166,1500000,14.99,5.02,6.2,9.22,5.27
@@ -229,7 +229,7 @@ Rush,2010-12-14,Puzzle,Two Tribes,Two Tribes Publishing,0,8.0,Great,1069,117,53,
 Dungeons,2011-02-25,Strategy,Realmforge Studios,Kalypso Media Digital,0,6.5,Okay,214,266,112,112,350000,6.99,18.06,20.5,27.0,19.93
 Flight Control HD,2010-12-14,Simulation,Firemint,Firemint,0,8.0,Great,406,36,85,85,75000,2.99,1.69,3.84,9.54,5.37
 Who's That Flying?!,2011-02-07,Shooter,Mediatonic,Kalypso Media Digital,0,8.0,Great,98,42,25,25,35000,3.99,1.59,3.56,12.47,2.48
-Magicka,2011-01-28,"Action, RPG",Arrowhead Game Studios,Paradox Interactive,0,7.0,Good,20912,1964,589,369,3500000,7.99,10.4,16.06,45.95,13.18
+Magicka,2011-01-28,"Action, RPG",Arrowhead Game Studios,Paradox Interactive,0,7.0,Good,20912,1964,589,369,3500000,7.99,10.4,16.06,46.42,13.25
 Homefront,2011-03-15,Shooter,Kaos Studios;Digital Extremes,Deep Silver,0,7.0,Good,5506,3685,1772,126,3500000,14.99,4.16,5.52,9.55,4.57
 Risk: Factions,2011-03-15,Strategy,Stainless Games,Electronic Arts,0,7.5,Good,405,214,979,1754,75000,7.99,2.29,3.44,8.93,3.81
 Shift 2 Unleashed,2011-03-29,Racing,Slightly Mad Studios,Electronic Arts,0,8.5,Great,1071,629,0,0,350000,19.99,20.14,35.64,48.43,26.82
@@ -304,10 +304,10 @@ Legend of Grimrock,2012-04-09,RPG,Almost Human Games,Almost Human Games,0,8.5,Gr
 Wargame: European Escalation,2012-03-07,Strategy,Eugen Systems,Eugen Systems,0,8.0,Great,1892,574,11,11,750000,7.99,32.33,44.06,60.07,44.63
 King Arthur II: The Role-Playing Wargame,2012-02-14,Strategy,NeocoreGames,Paradox Interactive,0,6.0,Okay,188,169,46,46,150000,7.99,11.59,41.2,0.0,15.4
 Crusader Kings II,2012-03-05,Strategy,Paradox Development Studio,Paradox Interactive,0,8.0,Great,31668,4187,1366,272,3500000,29.99,67.08,246.22,440.97,165.01
-Rayman Origins,2012-03-29,Platformer,UBIart Montpellier,Ubisoft,0,9.5,Amazing,1509,114,266,497,350000,8.59,11.0,14.45,21.63,13.91
+Rayman Origins,2012-03-29,Platformer,UBIart Montpellier;Feral Interactive (Mac),Ubisoft;Feral Interactive (Mac),0,9.5,Amazing,1509,114,266,497,350000,8.59,11.0,14.45,21.63,13.91
 Risen 2: Dark Waters,2012-04-23,RPG,Piranha Bytes,Deep Silver,0,6.5,Okay,2987,891,1278,1257,1500000,7.99,26.02,33.81,46.12,35.1
 Lone Survivor,2012-04-20,Adventure,Jasper Byrne,Superflat Games,16,8.5,Great,1019,153,93,128,750000,11.39,4.09,4.96,10.44,4.61
-The Witcher 2: Assassins of Kings (Enhanced Edition),2012-04-19,RPG,CD PROJEKT RED,CD PROJEKT RED;1C-SoftClub,0,9.0,Amazing,36427,4710,838,320,3500000,14.99,24.15,34.53,56.52,33.09
+The Witcher 2: Assassins of Kings (Enhanced Edition),2012-04-19,RPG,CD PROJEKT RED,CD PROJEKT RED;1C-SoftClub,0,9.0,Amazing,36427,4710,838,320,3500000,14.99,24.15,34.55,56.52,33.09
 Insanely Twisted Shadow Planet,2012-04-19,Shooter,Shadow Planet Productions,Microsoft Studios,0,8.0,Great,547,83,275,275,350000,11.99,5.16,6.12,7.55,5.92
 Alan Wake's American Nightmare,2012-05-29,Action,Remedy Entertainment,Remedy Entertainment,0,7.5,Good,3598,1468,71,123,1500000,6.19,3.65,4.67,8.54,4.32
 Max Payne 3,2012-05-14,Shooter,Rockstar Studios,Rockstar Games,0,9.0,Amazing,21581,4374,464,531,1500000,14.99,10.03,12.89,32.09,10.85
@@ -327,17 +327,17 @@ Roller Coaster Rampage,2012-07-02,Simulation,Pantera Entertainment,Pantera Enter
 Antichamber,2013-01-31,Puzzle,Alexander Bruce,Demruth,0,8.6,Great,12232,612,176,181,1500000,14.99,5.94,7.33,8.89,7.05
 Fieldrunners 2,2013-01-25,Strategy,Subatomic Studios LLC,Subatomic Studios LLC,0,8.1,Great,268,53,0,0,150000,6.99,9.22,21.24,28.72,11.93
 Retrovirus,2013-02-20,Shooter,Cadenza Interactive,Cadenza Interactive,0,6.6,Okay,120,44,105,105,35000,7.19,12.3,13.0,0.0,12.47
-BioShock Infinite,2013-03-21,Shooter,Irrational Games,2K,18,9.5,Amazing,79442,3846,614,519,3500000,19.99,11.54,16.06,28.46,13.97
+BioShock Infinite,2013-03-21,Shooter,Irrational Games;Aspyr (Mac);Virtual Programming (Linux),2K;Aspyr (Mac),18,9.5,Amazing,79442,3846,614,519,3500000,19.99,11.54,16.06,28.46,13.97
 The Banner Saga: Factions,2013-03-14,"Strategy, RPG",Stoic,Versus Evil,0,7.8,Good,569,202,95245,190489,350000,0.0,15.0,0.0,0.0,15.0
 Sniper: Ghost Warrior 2,2013-03-19,Shooter,City Interactive,CI Games,18,5.0,Mediocre,6775,2724,234,228,1500000,6.99,5.13,7.24,11.55,5.94
 March of the Eagles,2013-02-27,Strategy,Paradox Development Studio,Paradox Interactive,0,7.9,Good,143,65,0,0,75000,14.99,3.5,0.0,0.0,3.5
-Tomb Raider,2013-02-25,Action,Crystal Dynamics;Eidos-Montréal,Square Enix,18,9.1,Amazing,93509,4103,527,475,7500000,14.99,11.33,15.47,20.89,14.36
+Tomb Raider,2013-02-25,Action,Crystal Dynamics;Eidos-Montréal;Feral Interactive (Mac);Feral Interactive (Linux),Square Enix;Feral Interactive (Mac);Feral Interactive (Linux),18,9.1,Amazing,93509,4103,527,475,7500000,14.99,11.33,15.47,20.89,14.36
 Cities in Motion 2,2013-04-11,Simulation,Colossal Order Ltd.,Paradox Interactive,0,7.5,Good,1130,873,157,207,750000,14.99,32.22,84.34,0.0,44.89
 Warframe,2013-04-03,Shooter,Digital Extremes,Digital Extremes,16,7.0,Good,226541,20268,5845,394,35000000,0.0,113.63,657.6,1467.18,560.43
 Incredipede,2013-03-29,"Puzzle, Adventure",Colin Northway with art by Thomas Shahan,Northway Games,0,8.5,Great,228,93,0,0,150000,6.99,2.79,3.17,4.56,3.43
 The Swapper,2013-06-01,Platformer,"Olli Harjola, Otto Hantula, Tom Jubert, Carlo Castellano",Facepalm Games,0,9.3,Amazing,5699,242,129,184,750000,11.99,5.1,5.44,5.9,5.35
-Fez,2013-05-01,Platformer,Polytron Corporation,Trapdoor,0,9.5,Amazing,10641,928,144,198,1500000,6.99,5.98,8.3,11.68,8.63
-Grid 2,2013-05-28,Racing,Codemasters Racing,Codemasters,0,8.0,Great,11953,3009,340,243,1500000,19.98,17.57,21.34,29.54,21.11
+Fez,2013-05-01,Platformer,Polytron Corporation,Trapdoor,0,9.5,Amazing,10641,928,144,198,1500000,6.99,5.98,8.31,11.68,8.64
+Grid 2,2013-05-28,Racing,Codemasters Racing;Feral Interactive (Mac),Codemasters;Feral Interactive (Mac),0,8.0,Great,11953,3009,340,243,1500000,19.98,17.57,21.34,29.54,21.11
 Fallen Enchantress: Legendary Heroes,2013-05-28,Strategy,Stardock Entertainment,Stardock Entertainment,0,8.0,Great,1265,495,1610,2874,350000,19.49,12.75,37.62,97.65,30.28
 Sacred Citadel,2013-04-30,Action,Southend,Deep Silver,0,5.9,Mediocre,645,287,220,263,750000,7.99,5.07,6.48,21.53,5.93
 Thunder Wolves,2013-05-27,"Flight, Action",Most Wanted Entertainment,HandyGames,0,6.7,Okay,377,61,0,0,150000,7.99,3.5,6.52,15.83,4.3
@@ -360,9 +360,9 @@ Rogue Legacy,2013-07-26,RPG,Cellar Door Games,Cellar Door Games,0,9.0,Amazing,13
 Shadowrun Returns,2013-07-25,RPG,Harebrained Schemes,Paradox Interactive,0,7.3,Good,8676,1132,278,240,1500000,10.99,11.61,14.36,17.78,13.88
 Gone Home,2013-08-15,Simulation,Fullbright,Fullbright,0,9.5,Amazing,11893,3651,90,129,750000,10.99,1.99,2.53,3.12,2.2
 Europa Universalis IV,2013-08-15,Strategy,Paradox Development Studio,Paradox Interactive,0,8.9,Great,40346,8254,8138,4572,1500000,34.99,95.71,349.43,1581.13,367.06
-Company of Heroes 2,2013-06-26,Strategy,Relic Entertainment,SEGA,18,8.4,Great,32548,12038,1846,277,3500000,14.99,15.63,24.99,64.01,19.95
+Company of Heroes 2,2013-06-26,Strategy,Relic Entertainment;Feral Interactive (Mac);Feral Interactive (Linux),SEGA;Feral Interactive (Mac);Feral Interactive (Linux),18,8.4,Great,32548,12038,1846,277,3500000,14.99,15.63,24.99,64.01,19.95
 Magrunner: Dark Pulse,2013-06-25,"Puzzle, Action",Frogwares,Frogwares,0,6.8,Okay,251,50,0,0,35000,6.99,8.43,8.51,12.1,8.71
-Dota 2,2013-07-24,RPG,Valve,Valve,0,9.4,Amazing,863507,142079,23944,801,150000000,0.0,772.09,1132.55,2359.42,1260.91
+Dota 2,2013-07-24,RPG,Valve,Valve,0,9.4,Amazing,863507,142079,23944,801,150000000,0.0,772.09,1132.55,2393.14,1270.77
 Space Hulk,2013-08-30,Strategy,Full Control Studios,Full Control,0,6.7,Okay,1292,556,87,87,350000,18.99,9.97,15.58,25.55,13.9
 Guncraft,2013-08-27,Shooter,Exato Games Studio,Reverb Triple XP,0,6.4,Okay,607,636,103,178,150000,10.99,0.0,0.0,0.0,0.0
 Saints Row IV,2013-08-14,Action,Deep Silver Volition,Deep Silver,16,7.3,Good,54091,4945,1279,1094,3500000,10.99,15.29,24.73,36.44,23.92
@@ -380,7 +380,7 @@ The Wolf Among Us: Episode 1 -- Faith,2013-10-10,Adventure,Telltale Games,Tellta
 Dragon's Prophet,2013-10-08,RPG,Runewaker,Infernum Productions AG,0,5.1,Mediocre,594,267,152,183,350000,0.0,40.0,0.0,0.0,40.0
 Shadow Warrior,2013-10-02,Shooter,Flying Wild Hog,Devolver Digital,18,8.6,Great,18716,1426,319,227,3500000,29.99,12.29,15.47,35.3,14.06
 Scribblenauts Unmasked: A DC Comics Adventure,2013-09-25,"Puzzle, Action",5th Cell Media,Warner Bros. Interactive Entertainment,0,9.1,Amazing,1284,287,124,124,350000,14.99,6.48,8.26,11.74,9.14
-LEGO Marvel Super Heroes,2013-10-22,Action,Traveller's Tales,Warner Bros. Interactive Entertainment,0,9.0,Amazing,8797,691,4034,3514,750000,14.99,12.31,24.18,39.86,27.78
+LEGO Marvel Super Heroes,2013-10-22,Action,Traveller's Tales,Warner Bros. Interactive Entertainment;Feral Interactive (Mac),0,9.0,Amazing,8797,691,4034,3514,750000,14.99,12.31,24.18,39.86,27.78
 Path of Exile,2013-11-09,"Action, RPG",Grinding Gear Games,Grinding Gear Games,0,8.8,Great,71593,6117,5263,492,15000000,0.0,29.55,113.64,790.88,102.31
 The Stanley Parable,2013-10-18,Adventure,Galactic Cafe,Galactic Cafe,0,8.8,Great,31538,2846,170,132,3500000,9.99,1.45,2.89,8.8,3.14
 Knock-Knock,2013-10-17,Adventure,Ice-Pick Lodge,Ice-Pick Lodge,0,6.2,Okay,946,132,507,570,75000,6.99,3.49,4.86,8.82,4.38
@@ -407,14 +407,14 @@ Banished,2014-02-21,Simulation,Shining Rock Software LLC,Shining Rock Software L
 Horizon,2014-02-20,Strategy,L3O Interactive,Iceberg Interactive,0,6.5,Okay,243,177,84,84,75000,22.99,65.0,0.0,0.0,65.0
 Samurai Gunn,2013-12-19,Shooter,Teknopants,Maxistentialism,0,8.3,Great,337,21,0,0,35000,11.99,0.0,0.0,0.51,0.51
 Jazzpunk,2014-02-06,Adventure,Necrophone Games,Necrophone Games,0,7.0,Good,4136,393,305,402,350000,10.99,2.08,2.86,3.64,2.82
-The LEGO Movie Videogame,2014-02-13,"Action, Adventure",TT Fusion;Traveller's Tales,Warner Bros. Interactive Entertainment,0,6.5,Okay,1825,374,570,570,350000,14.99,7.67,11.44,17.5,12.61
+The LEGO Movie Videogame,2014-02-13,"Action, Adventure",TT Fusion;Traveller's Tales;Feral Interactive (Mac),Warner Bros. Interactive Entertainment;Feral Interactive (Mac),0,6.5,Okay,1825,374,570,570,350000,14.99,7.67,11.44,17.5,12.61
 The Castle Doctrine,2014-02-04,Strategy,Jason Rohrer,Jason Rohrer,0,4.5,Bad,176,190,38,38,10000,12.49,0.0,0.0,0.0,0.0
 Octodad: Dadliest Catch,2014-01-30,Adventure,Young Horses,Young Horses,0,7.8,Good,6742,536,174,250,750000,11.99,2.41,4.0,7.6,3.3
 Blackguards,2014-01-30,RPG,Daedalic Entertainment,Daedalic Entertainment,0,7.8,Good,1669,1050,174,232,750000,26.99,40.46,44.09,58.23,43.76
 South Park: The Stick of Truth,2014-03-04,RPG,Obsidian Entertainment,Ubisoft,0,9.0,Amazing,35896,911,1045,628,3500000,25.99,11.37,14.72,21.08,14.45
 Castlevania: Lords of Shadow 2,2014-02-25,Action,MercurySteam,Konami Digital Entertainment,16,6.5,Okay,2390,479,732,732,350000,24.99,14.69,20.55,32.71,17.36
 Castlevania: Lords of Shadow 2,2014-02-25,Action,MercurySteam,Konami Digital Entertainment,0,6.5,Okay,836,186,0,0,150000,9.99,14.69,20.55,32.71,17.36
-Thief,2014-02-24,"Adventure, Adventure",Eidos-Montréal,Square Enix,16,6.8,Okay,10486,4326,276,192,1500000,19.99,10.97,22.32,44.22,18.23
+Thief,2014-02-24,"Adventure, Adventure",Eidos-Montréal;Feral Interactive (Mac),Square Enix;Feral Interactive (Mac),16,6.8,Okay,10486,4326,276,192,1500000,19.99,10.97,22.32,44.22,18.23
 Deus Ex: The Fall,2014-03-24,Shooter,Square Enix,Square Enix,18,3.0,Awful,990,2101,81,81,750000,7.99,4.24,5.49,8.06,5.61
 Luftrausers,2014-03-21,Action,Vlambeer,Devolver Digital,0,8.7,Great,3180,302,260,347,350000,6.99,4.03,6.1,14.75,6.24
 Betrayer,2014-04-03,"Action, Adventure",Blackpowder Games,Blackpowder Games,0,5.0,Mediocre,2601,578,112,123,350000,3.99,6.84,9.07,13.16,9.34
@@ -430,7 +430,7 @@ The Last Federation,2014-04-29,Strategy,"Arcen Games, LLC","Arcen Games, LLC",0,
 Ether One,2014-04-18,Adventure,White Paper Games,White Paper Games,0,7.9,Good,272,92,0,0,75000,14.99,5.59,10.09,11.1,9.56
 Shovel Knight,2014-06-26,"Platformer, Adventure",Yacht Club Games,Yacht Club Games,0,9.0,Amazing,9334,332,501,611,750000,18.99,6.67,9.54,18.24,8.52
 Trials Fusion,2014-04-16,"Racing, Action","RedLynx, in collaboration with  Ubisoft Shanghai, Ubisoft Kiev",Ubisoft,0,8.2,Great,1141,615,418,480,350000,16.99,6.78,22.36,115.53,12.38
-Grid Autosport,2014-06-24,Racing,Codemasters Racing,Codemasters,0,8.3,Great,4969,1610,228,417,750000,24.99,32.39,61.2,123.74,51.61
+Grid Autosport,2014-06-24,Racing,Codemasters Racing;Feral Interactive (Mac);Feral Interactive (Linux),Codemasters;Feral Interactive (Mac);Feral Interactive (Linux),0,8.3,Great,4969,1610,228,417,750000,24.99,32.39,61.2,123.74,51.61
 Enemy Front,2014-06-17,Shooter,CI Games,CI Games,0,4.7,Bad,2213,1307,116,122,350000,15.99,5.71,7.54,10.45,6.41
 1001 Spikes,2014-06-08,Platformer,"Nicalis, Inc.","Nicalis, Inc.",0,8.0,Great,455,103,214,215,75000,9.99,7.14,14.37,16.91,13.38
 MouseCraft,2014-07-11,Puzzle,Crunching Koalas,Crunching Koalas,0,7.7,Good,210,25,0,0,35000,6.99,5.83,8.18,8.27,7.63
@@ -458,17 +458,17 @@ Hatoful Boyfriend,2014-09-05,Adventure,Mediatonic;Hato Moa;The Irregular Corpora
 Hack 'n' Slash,2014-09-22,RPG,Double Fine Productions,Double Fine Productions,0,7.7,Good,412,348,46,46,350000,9.99,4.5,5.31,5.56,4.81
 Lichdom: Battlemage,2014-08-29,"Action, RPG",Xaviant,Xaviant Games,0,6.5,Okay,1400,1036,351,366,150000,7.19,14.26,19.73,26.83,17.76
 Styx: Master of Shadows,2014-10-14,Action,Cyanide Studio,Focus Home Interactive,0,7.2,Good,4506,962,243,248,750000,24.99,17.02,22.51,41.87,22.98
-Borderlands: The Pre-Sequel,2014-10-13,"Shooter, RPG",2K Australia;Gearbox Software,2K,18,8.0,Great,16909,5076,1661,886,3500000,29.99,18.2,29.3,59.23,27.33
+Borderlands: The Pre-Sequel,2014-10-13,"Shooter, RPG",2K Australia;Gearbox Software;Aspyr (Mac);Aspyr (Linux),2K;Aspyr (Mac);Aspyr (Linux),18,8.0,Great,16909,5076,1661,886,3500000,29.99,18.2,29.3,59.23,27.33
 Costume Quest 2,2014-10-07,RPG,Double Fine Productions,Midnight City ;Majesco Entertainment,0,7.6,Good,496,72,0,0,150000,10.99,6.63,7.9,9.56,8.23
 Spacebase DF-9,2014-11-04,Simulation,Double Fine Productions,Double Fine Productions,0,6.8,Okay,741,3134,228,228,150000,6.99,4.0,0.0,7.41,6.7
-Alien: Isolation,2014-10-03,Action,Creative Assembly,SEGA,18,5.9,Mediocre,24534,1958,563,720,1500000,29.99,18.32,22.52,34.06,20.78
+Alien: Isolation,2014-10-03,Action,Creative Assembly;Feral Interactive (Mac);Feral Interactive (Linux),SEGA;Feral Interactive (Mac);Feral Interactive (Linux),18,5.9,Mediocre,24534,1958,563,720,1500000,29.99,18.32,22.52,34.06,20.78
 Call of Duty: Advanced Warfare,2014-11-03,Shooter,Sledgehammer Games;Raven Software,Activision,18,9.1,Amazing,13389,8379,250,267,750000,39.99,7.12,10.69,17.85,8.31
 Frozen Synapse Prime,2014-11-14,Strategy,Double Eleven,Double Eleven,0,8.7,Great,189,103,0,0,75000,18.99,17.52,18.0,33.6,21.63
 Lords of the Fallen,2014-10-28,"RPG, Action",CI Games;Deck 13,CI Games,16,7.4,Good,7393,4963,456,265,750000,23.79,29.06,44.48,93.97,41.94
 Screencheat,2014-10-26,Shooter,Samurai Punk,Fellow Traveller;Samurai Punk,0,7.0,Good,1157,99,122,169,350000,11.39,2.39,5.0,7.57,5.35
 Gabriel Knight: Sins of the Fathers -- 20th Anniversary Edition,2014-10-24,Adventure,Phoenix Online Studios;Pinkerton Road Studio,Pinkerton Road Studio,0,7.0,Good,570,66,305,305,75000,12.99,10.3,14.22,15.3,12.44
-Far Cry 4,2014-11-14,Shooter,"Ubisoft Montreal, Red Storm, Shanghai, Toronto, Kiev",Ubisoft,0,8.5,Great,17082,4740,1062,977,1500000,25.99,17.84,31.24,46.85,30.75
-Sid Meier's Civilization: Beyond Earth,2014-10-23,Simulation,Firaxis Games,2K,0,7.9,Good,9555,8224,932,1552,1500000,29.99,17.11,49.09,78.47,33.82
+Far Cry 4,2014-11-14,Shooter,"Ubisoft Montreal, Red Storm, Shanghai, Toronto, Kiev",Ubisoft,0,8.5,Great,17082,4740,1062,977,1500000,25.99,17.84,31.25,46.85,30.76
+Sid Meier's Civilization: Beyond Earth,2014-10-23,Simulation,Firaxis Games;Aspyr (Mac);Aspyr (Linux),2K;Aspyr (Mac);Aspyr (Linux),0,7.9,Good,9555,8224,932,1552,1500000,29.99,17.11,49.09,78.47,33.82
 Randal's Monday,2014-12-01,Adventure,Nexus Game Studios,Daedalic Entertainment,0,4.5,Bad,637,199,13,13,150000,14.99,14.41,17.02,17.36,15.99
 Valkyria Chronicles,2014-11-26,"Action, RPG",SEGA,SEGA,0,8.8,Great,8862,838,892,1068,750000,14.99,30.35,38.39,59.27,36.74
 Dungeon of the Endless,2014-11-13,"Adventure, RPG",AMPLITUDE Studios,SEGA,0,8.1,Great,7423,1046,648,295,750000,8.99,7.95,25.03,110.44,18.76
@@ -488,7 +488,7 @@ The Crew,2014-12-02,"Racing, Action",Ivory Tower in collaboration with Ubisoft R
 Grow Home,2015-02-07,Platformer,"Reflections, a Ubisoft Studio",Ubisoft,0,8.8,Great,3855,382,142,162,350000,6.69,2.57,4.45,7.81,4.37
 Gravity Ghost,2015-02-05,Other,Ivy Games,Ivy Games,0,7.4,Good,253,8,0,0,10000,10.99,2.97,3.35,4.02,3.22
 Apotheon,2015-02-05,"Action, RPG",Alientrap,Alientrap,0,6.9,Okay,2239,240,716,716,350000,10.99,8.19,12.29,14.91,11.65
-Life is Strange -- Episode 1: Chrysalis,2015-02-02,Adventure,DONTNOD Entertainment,Square Enix,16,6.5,Okay,118634,4496,412,145,7500000,0.0,2.23,2.98,3.19,2.65
+Life is Strange -- Episode 1: Chrysalis,2015-02-02,Adventure,DONTNOD Entertainment;Feral Interactive (Mac);Feral Interactive (Linux),Square Enix;Feral interactive (Mac);Feral Interactive (Linux),16,6.5,Okay,118634,4496,412,145,7500000,0.0,2.23,2.98,3.19,2.65
 Supreme League of Patriots,2015-01-31,Adventure,No Bull Intentions,Phoenix Online Publishing,0,5.7,Mediocre,54,27,0,0,35000,4.79,2.43,2.63,2.56,2.62
 StarDrive 2,2015-04-20,Strategy,Zero Sum Games,Iceberg Interactive,0,6.9,Okay,967,758,833,833,75000,22.99,0.0,7.83,0.0,7.83
 Grand Theft Auto V,2015-04-14,"Action, Adventure",Rockstar North,Rockstar Games,18,10.0,Masterpiece,329061,139308,9837,4834,15000000,24.99,32.06,51.14,87.84,45.29
@@ -503,13 +503,13 @@ Audiosurf 2,2015-05-29,"Music, Action",Dylan Fitterer,Dylan Fitterer,0,7.5,Good,
 Aaru's Awakening,2015-03-03,Platformer,Lumenox ehf,Lumenox ehf,0,6.7,Okay,86,35,0,0,35000,10.99,3.03,3.67,3.99,3.31
 Oblitus,2015-02-28,Action,Connor Ullmann,Adult Swim Games,0,7.0,Good,56,58,0,0,10000,10.99,0.67,2.5,4.79,3.12
 Frozen Cortex,2015-02-26,"Strategy, Simulation",Mode 7,Mode 7,0,8.1,Great,188,69,0,0,35000,18.99,4.3,0.0,0.0,4.3
-Homeworld Remastered Collection,2015-02-24,Strategy,Gearbox Software,Gearbox Publishing,0,9.0,Amazing,5377,827,353,419,750000,26.99,21.11,22.47,33.26,25.36
+Homeworld Remastered Collection,2015-02-24,Strategy,Gearbox Software;Aspyr (Mac),Gearbox Publishing;Aspyr (Mac),0,9.0,Amazing,5377,827,353,419,750000,26.99,21.11,22.47,33.26,25.36
 Hand of Fate,2015-02-21,"Card, Battle",Defiant Development,Defiant Development,0,7.0,Good,8045,794,371,297,750000,14.99,10.62,19.72,59.9,16.16
 The Witcher 3: Wild Hunt,2015-05-12,RPG,CD PROJEKT RED,CD PROJEKT RED,0,9.3,Amazing,202930,4798,3068,2002,7500000,24.99,51.57,103.72,174.9,103.77
 Wolfenstein: The Old Blood,2015-05-08,Shooter,MachineGames,Bethesda Softworks,18,7.0,Good,6627,862,245,276,750000,14.99,5.92,8.48,15.84,7.29
 Pillars of Eternity,2015-03-27,RPG,Obsidian Entertainment,Paradox Interactive,0,9.0,Amazing,11558,1835,1710,2177,1500000,22.99,36.08,64.1,109.07,65.86
 Sid Meier's Starships,2015-03-14,Strategy,Firaxis Games,2K,0,6.5,Okay,881,1071,0,0,350000,10.99,5.07,19.5,0.0,7.85
-Magicka 2,2015-05-28,"Adventure, RPG",Pieces Interactive,Paradox Interactive,0,7.7,Good,4873,1382,198,166,1500000,10.99,6.15,9.93,31.81,7.75
+Magicka 2,2015-05-28,"Adventure, RPG",Pieces Interactive,Paradox Interactive,0,7.7,Good,4873,1382,198,166,1500000,10.99,6.15,9.93,33.38,7.84
 Magnetic: Cage Closed,2015-05-27,Puzzle,Guru Games,Good Shepherd Entertainment,0,6.5,Okay,183,87,0,0,35000,11.99,3.49,4.82,8.52,4.15
 Sunless Sea,2015-02-19,Adventure,Failbetter Games,Failbetter Games,0,8.3,Great,5331,1103,417,573,750000,13.99,20.25,61.22,123.14,58.61
 The Escapists,2015-02-13,"Action, Strategy",Mouldy Toof Studios,Team17 Digital Ltd,0,7.6,Good,11629,1432,826,590,1500000,12.99,19.71,43.23,43.66,28.52
@@ -525,18 +525,18 @@ Kerbal Space Program,2015-05-15,Simulation,Squad,Private Division ,0,9.0,Amazing
 Galactic Civilizations III,2015-05-14,Strategy,Stardock Entertainment,Stardock Entertainment,0,8.6,Great,6051,1891,199,264,750000,23.79,27.21,37.12,54.94,32.74
 Rocket League,2015-07-15,Sports,"Psyonix, Inc.","Psyonix, Inc.",0,8.0,Great,242561,21816,5825,1462,7500000,14.99,4.59,25.42,103.18,48.09
 Legends of Eisenwald,2015-07-09,RPG,Aterdux Entertainment,Aterdux Entertainment,0,7.3,Good,1013,298,506,674,150000,14.99,23.65,42.12,80.0,44.89
-Her Story,2015-06-30,Adventure,Sam Barlow,Sam Barlow,0,8.5,Great,4850,543,123,146,350000,4.99,2.41,3.31,4.15,3.28
+Her Story,2015-06-30,Adventure,Sam Barlow,Sam Barlow,0,8.5,Great,4850,543,123,146,350000,4.99,2.41,3.32,4.15,3.28
 Beyond Eyes,2015-08-07,Adventure,Tiger and Squid;Team17 Digital Ltd,Team17 Digital Ltd,0,5.5,Mediocre,683,314,763,763,150000,9.99,2.01,2.81,3.43,2.45
 Submerged,2015-08-07,Adventure,Uppercut Games Pty Ltd,Uppercut Games Pty Ltd,0,6.8,Okay,2223,776,317,317,350000,14.99,2.37,3.34,5.27,4.05
 The Magic Circle,2015-07-31,Adventure,Question,Question,0,7.8,Good,1048,83,75,75,150000,14.99,3.57,4.54,9.08,4.66
 Guild of Dungeoneering,2015-07-28,RPG,Gambrinous,Versus Evil,0,7.0,Good,1251,425,542,549,350000,10.99,11.58,17.9,27.21,16.21
-LEGO Jurassic World,2015-06-22,"Action, Adventure",TT Games Ltd,Warner Bros. Interactive Entertainment,0,7.6,Good,2558,431,502,619,350000,15.99,10.38,17.64,29.95,22.18
-F1 2015,2015-07-17,Racing,Codemasters,Codemasters,0,4.8,Bad,3834,2720,305,372,3500000,29.99,14.08,25.59,47.24,19.45
+LEGO Jurassic World,2015-06-22,"Action, Adventure",TT Games Ltd;Feral Interactive (Mac),Warner Bros. Interactive Entertainment;Feral Interactive (Mac),0,7.6,Good,2558,431,502,619,350000,15.99,10.38,17.64,29.95,22.18
+F1 2015,2015-07-17,Racing,Codemasters;Feral Interactive (Linux),Codemasters;Feral Interactive (Linux),0,4.8,Bad,3834,2720,305,372,3500000,29.99,14.08,25.59,47.24,19.45
 Fallout 4,2015-11-09,RPG,Bethesda Game Studios,Bethesda Softworks,18,9.5,Amazing,110376,45377,4822,2904,7500000,19.99,27.58,83.16,160.02,80.45
 Anno 2205,2015-11-04,Simulation,Blue Byte,Ubisoft,0,7.0,Good,2141,1245,1930,3613,350000,33.99,18.07,37.7,64.86,27.81
 Minecraft: Story Mode -- Episode 2: Assembly Required,2015-10-30,Adventure,Telltale Games,Telltale Games,0,5.6,Mediocre,6041,1948,399,432,350000,18.99,1.11,1.14,1.38,1.18
 Warhammer: End Times -- Vermintide,2015-10-29,Action,Fatshark,Fatshark,16,7.2,Good,13905,3560,1200,608,1500000,22.99,8.26,26.08,146.0,16.69
-Dirt Rally,2015-12-22,Racing,Codemasters Racing Studio,Codemasters,0,8.9,Great,17632,2496,488,251,1500000,24.99,28.71,67.1,153.31,54.4
+Dirt Rally,2015-12-22,Racing,Codemasters Racing Studio;Feral Interactive (Linux);Feral Interactive (Mac),Codemasters;Feral Interactive (Linux);Feral Interactive (Mac),0,8.9,Great,17632,2496,488,251,1500000,24.99,28.71,67.1,153.31,54.4
 Nuclear Throne,2015-12-16,Action,Vlambeer,Vlambeer,0,9.0,Amazing,9694,405,682,491,750000,9.29,16.68,58.4,184.14,30.98
 The Beginner's Guide,2015-10-07,Adventure,Everything Unlimited Ltd.,Everything Unlimited Ltd.,0,8.0,Great,12791,2036,120,120,350000,6.99,1.53,1.66,1.7,1.58
 Just Cause 3,2015-11-30,Action,Avalanche Studios,Square Enix,18,8.0,Great,37747,14024,2086,438,3500000,11.99,18.34,37.98,63.23,38.59
@@ -568,7 +568,7 @@ Punch Club,2016-01-15,"Fighting, Simulation",Lazy Bear Games,tinyBuild,0,6.5,Oka
 "That Dragon, Cancer",2016-01-15,Adventure,Numinous Games,Numinous Games,0,8.0,Great,996,110,0,0,35000,6.99,1.85,2.0,2.05,1.92
 OxenFree,2016-01-15,Adventure,Night School Studio,Night School Studio,0,8.2,Great,6551,477,258,382,350000,14.99,4.44,5.66,13.15,5.42
 Firewatch,2016-02-08,Adventure,Campo Santo,Panic;Campo Santo,0,9.3,Amazing,32886,5524,206,257,750000,14.99,4.06,4.68,5.17,4.45
-XCOM 2,2016-02-01,Strategy,Firaxis Games,2K,0,9.3,Amazing,28774,7018,1891,1985,1500000,34.99,33.21,47.91,85.04,44.66
+XCOM 2,2016-02-01,Strategy,Firaxis Games;Feral Interactive (Mac);Feral Interactive (Linux),2K;Feral Interactive (Mac);Feral Interactive (Linux),0,9.3,Amazing,28774,7018,1891,1985,1500000,34.99,33.21,47.91,86.24,44.73
 Metal Gear Solid V: The Phantom Pain,2015-08-24,Action,Konami Digital Entertainment,Konami Digital Entertainment,18,10.0,Masterpiece,38643,4954,3007,2478,1500000,24.99,45.62,81.85,164.28,80.48
 Volume,2015-08-18,Action,Bithell Games,Bithell Games,0,8.1,Great,453,124,76,76,150000,14.99,6.96,8.01,8.23,7.6
 Bombshell,2016-01-29,Action,Slipgate Ironworks™,3D Realms,0,6.9,Okay,182,113,0,0,35000,29.99,9.72,11.75,14.26,10.99
@@ -588,7 +588,7 @@ Dark Souls III,2016-04-04,"Action, RPG","FromSoftware, Inc.","FromSoftware, Inc.
 The Technomancer,2016-06-28,RPG,Spiders,Focus Home Interactive,0,4.9,Bad,1232,565,67,67,150000,23.99,18.92,27.57,45.1,28.35
 Alekhine's Gun,2016-03-11,Action,Maximum Games,Maximum Games;KISS ltd,0,3.0,Awful,166,100,0,0,35000,29.99,11.57,18.31,28.98,13.15
 Grim Dawn,2016-03-07,"Action, RPG",Crate Entertainment,Crate Entertainment,0,8.7,Great,26805,2605,3651,1539,1500000,19.99,21.51,48.9,218.03,42.75
-Total War: Warhammer,2016-05-19,Strategy,CREATIVE ASSEMBLY,SEGA,0,8.6,Great,29826,9878,3610,4356,1500000,39.99,34.66,68.87,184.82,54.77
+Total War: Warhammer,2016-05-19,Strategy,CREATIVE ASSEMBLY;Feral Interactive (Linux);Feral Interactive (Mac),SEGA;Feral Interactive (Linux);Feral Interactive (Mac),0,8.6,Great,29826,9878,3610,4356,1500000,39.99,34.66,68.87,184.82,54.77
 Homefront: The Revolution,2016-05-17,Shooter,Dambuster Studios,Deep Silver,18,5.0,Mediocre,6396,5102,408,484,750000,24.99,12.05,19.13,31.97,17.14
 Doom,2016-05-16,Shooter,id Software,Bethesda Softworks,18,7.1,Good,68536,5156,751,560,3500000,14.99,11.61,16.4,27.11,14.54
 Stellaris,2016-05-09,Strategy,Paradox Development Studio,Paradox Interactive,0,6.3,Okay,35327,10036,2729,1563,3500000,34.99,31.73,89.33,339.1,83.71
@@ -602,8 +602,8 @@ Dangerous Golf,2016-06-03,"Sports, Action",Three Fields Entertainment,Team17 Dig
 Battlefleet Gothic: Armada,2016-04-22,Strategy,Tindalos Interactive,Focus Home Interactive,0,7.1,Good,3048,1435,856,1647,350000,24.99,20.8,23.58,40.74,25.44
 Master of Orion,2016-08-26,Strategy,NGD Studios,Wargaming Labs,0,7.1,Good,2961,1290,0,0,350000,22.99,12.38,82.33,126.5,30.46
 Quadrilateral Cowboy,2016-07-28,Puzzle,Blendo Games,Blendo Games,0,8.5,Great,468,50,316,316,75000,14.99,4.73,5.69,5.74,5.16
-F1 2016,2016-08-24,Racing,Codemasters,Codemasters,0,8.8,Great,3237,612,1397,1777,350000,39.99,20.4,40.86,73.75,30.37
-Deus Ex: Mankind Divided,2016-08-19,"Action, RPG",Eidos Montreal,Square Enix,18,9.2,Amazing,16023,7344,798,977,1500000,19.99,16.04,30.85,52.9,30.02
+F1 2016,2016-08-24,Racing,Codemasters;Feral Interactive (Mac),Codemasters;Feral Interactive (Mac),0,8.8,Great,3237,612,1397,1777,350000,39.99,20.4,40.86,73.75,30.37
+Deus Ex: Mankind Divided,2016-08-19,"Action, RPG",Eidos Montreal;Feral Interactive (Linux);Feral Interactive (Mac),Square Enix;Feral Interactive (Linux);Feral Interactive (Mac),18,9.2,Amazing,16023,7344,798,977,1500000,19.99,16.04,30.85,52.9,30.02
 Necropolis,2016-07-14,"Action, Adventure",Harebrained Schemes,Paradox Interactive;Bandai Namco,0,6.5,Okay,2516,1298,27,27,350000,22.99,6.83,9.53,21.66,9.33
 Furi,2016-07-13,Action,The Game Bakers,The Game Bakers,0,6.8,Okay,4199,474,535,682,750000,14.99,5.5,7.61,17.5,6.5
 Grow Up,2016-08-18,Platformer,"Reflections, a Ubisoft Studio",Ubisoft,0,7.8,Good,941,118,323,323,75000,8.59,3.99,6.22,9.37,6.4
