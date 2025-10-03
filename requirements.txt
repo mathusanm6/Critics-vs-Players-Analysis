@@ -7,3 +7,5 @@ plotly
 scipy
 scikit-learn
 howlongtobeatpy
+streamlit
+streamlit-plotly-events
