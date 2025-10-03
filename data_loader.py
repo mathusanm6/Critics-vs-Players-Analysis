@@ -11,8 +11,12 @@ def load_data():
     """Load and prepare the dataset."""
     df = pd.read_csv("data_wrangling/3_clean_final/output.csv")
 
-    # Calculate engagement ratio
-    df["engagement_ratio"] = df["median_playtime"] / df["all_styles"]
+    # Calculate engagement ratio as relative difference from expected
+    # Positive = more engagement than expected, Negative = less engagement than expected
+    # Formula: (median_playtime - all_styles) / all_styles
+    df["engagement_ratio"] = (df["median_playtime"] - df["all_styles"]) / df[
+        "all_styles"
+    ]
 
     # Handle infinite and NaN values
     df["engagement_ratio"] = df["engagement_ratio"].replace(

@@ -26,15 +26,15 @@ OPTIONAL_FILTERS = {
     "developer": "Developer",
     "publisher": "Publisher",
     "critic_phrases": "Critic Score Phrases",
-    "user_score": "User Score",
     "age": "Age Rating (PEGI)",
     "price": "Price",
     "owners": "Owners",
     "playtime": "Playtime",
-    "engagement": "Engagement Ratio",
+    "engagement": "Engagement Ratio (% Difference)",
     "year": "Release Year",
     "decade": "Release Decade",
     "min_reviews": "Minimum Reviews",
+    "min_games_per_genre": "Min Games per Genre",
 }
 
 # Filter icons mapping
@@ -42,7 +42,6 @@ FILTER_ICONS = {
     "developer": "code",
     "publisher": "building",
     "critic_phrases": "comment",
-    "user_score": "user",
     "age": "lock",
     "price": "dollar-sign",
     "owners": "users",
@@ -51,6 +50,7 @@ FILTER_ICONS = {
     "year": "calendar",
     "decade": "calendar-alt",
     "min_reviews": "edit",
+    "min_games_per_genre": "list-ol",
 }
 
 # Price categories

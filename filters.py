@@ -36,13 +36,6 @@ def apply_filters(data, filter_state):
     if selected_phrases:
         filtered = filtered[filtered["critic_score_phrase"].isin(selected_phrases)]
 
-    # User score filter
-    user_score_range = filter_state.get("user_score_range", (0.0, 1.0))
-    filtered = filtered[
-        (filtered["user_score_ratio"] >= user_score_range[0])
-        & (filtered["user_score_ratio"] <= user_score_range[1])
-    ]
-
     # Age filter
     selected_ages = filter_state.get("selected_ages", [])
     active_optional_filters = filter_state.get("active_optional_filters", [])
@@ -112,5 +105,16 @@ def apply_filters(data, filter_state):
             filtered["user_positive"] + filtered["user_negative"]
         )
         filtered = filtered[filtered["total_reviews"] >= min_reviews]
+
+    # Minimum games per genre filter
+    if "min_games_per_genre" in active_optional_filters:
+        min_games_per_genre = filter_state.get("min_games_per_genre", 1)
+        if min_games_per_genre > 1:
+            # Count games per genre in the filtered dataset
+            genre_counts = filtered["genre"].value_counts()
+            # Get genres that meet the minimum threshold
+            valid_genres = genre_counts[genre_counts >= min_games_per_genre].index
+            # Filter to only include those genres
+            filtered = filtered[filtered["genre"].isin(valid_genres)]
 
     return filtered

@@ -186,30 +186,6 @@ def render_optional_filters(df):
         )
         filter_values["selected_phrases"] = critic_phrases
 
-    # User score filter
-    if "user_score" in st.session_state.active_optional_filters:
-        col1, col2 = st.sidebar.columns([5, 1])
-        with col1:
-            st.markdown(
-                '<i class="fa fa-user"></i> **User Score**', unsafe_allow_html=True
-            )
-        with col2:
-            if st.button("✕", key="remove_user_score", help="Remove"):
-                st.session_state.active_optional_filters.remove("user_score")
-                st.rerun()
-
-        filter_values["user_score_range"] = st.sidebar.slider(
-            "User Score Ratio",
-            min_value=0.0,
-            max_value=1.0,
-            value=(0.0, 1.0),
-            step=0.05,
-            key="user_score_filter",
-            label_visibility="collapsed",
-        )
-    else:
-        filter_values["user_score_range"] = (0.0, 1.0)
-
     # Age filter
     if "age" in st.session_state.active_optional_filters:
         col1, col2 = st.sidebar.columns([5, 1])
@@ -345,22 +321,28 @@ def render_optional_filters(df):
 
         engagement_min = float(df["engagement_ratio"].min())
         engagement_max = float(df["engagement_ratio"].max())
+
+        # Use a more reasonable range centered around 0
+        # Cap at -2.0 to +5.0 for better visualization (200% below to 500% above expected)
+        range_min = max(-2.0, engagement_min)
+        range_max = min(5.0, engagement_max)
+
         filter_values["engagement_range"] = st.sidebar.slider(
-            "Ratio",
-            min_value=max(0.0, engagement_min),
-            max_value=min(10.0, engagement_max),
-            value=(max(0.0, engagement_min), min(10.0, engagement_max)),
+            "Ratio (% diff from expected)",
+            min_value=range_min,
+            max_value=range_max,
+            value=(range_min, range_max),
             step=0.1,
+            format="%.1f",
             key="engagement_filter",
             label_visibility="collapsed",
         )
     else:
         engagement_min = float(df["engagement_ratio"].min())
         engagement_max = float(df["engagement_ratio"].max())
-        filter_values["engagement_range"] = (
-            max(0.0, engagement_min),
-            min(10.0, engagement_max),
-        )
+        range_min = max(-2.0, engagement_min)
+        range_max = min(5.0, engagement_max)
+        filter_values["engagement_range"] = (range_min, range_max)
 
     # Year filter
     if "year" in st.session_state.active_optional_filters:
@@ -440,6 +422,34 @@ def render_optional_filters(df):
         )
     else:
         filter_values["min_reviews"] = 0
+
+    # Min games per genre filter
+    if "min_games_per_genre" in st.session_state.active_optional_filters:
+        col1, col2 = st.sidebar.columns([5, 1])
+        with col1:
+            st.markdown(
+                '<i class="fa fa-list-ol"></i> **Min Games per Genre**',
+                unsafe_allow_html=True,
+            )
+        with col2:
+            if st.button("✕", key="remove_min_games_per_genre", help="Remove"):
+                st.session_state.active_optional_filters.remove("min_games_per_genre")
+                st.rerun()
+
+        genre_counts = df["genre"].value_counts()
+        max_count = int(genre_counts.max())
+        filter_values["min_games_per_genre"] = st.sidebar.number_input(
+            "Minimum games",
+            min_value=1,
+            max_value=max_count,
+            value=1,
+            step=1,
+            key="min_games_per_genre_filter",
+            label_visibility="collapsed",
+            help="Filter out genres with fewer than this many games",
+        )
+    else:
+        filter_values["min_games_per_genre"] = 1
 
     return filter_values
 

@@ -12,7 +12,8 @@ def render_engagement_chart(df_filtered):
     """Render Chart 1: Impact of critic scores on player engagement."""
     st.header("1. 📊 Impact des critiques sur l'engagement")
     st.markdown(
-        "**Engagement Ratio** = median_playtime / all_styles (temps joué vs temps prévu)"
+        "**Engagement Ratio** = (median_playtime - all_styles) / all_styles  \n"
+        "**Positive** = plus d'engagement que prévu | **Negative** = moins d'engagement que prévu"
     )
 
     # Use filtered data for Chart 1
@@ -25,10 +26,13 @@ def render_engagement_chart(df_filtered):
 
     # Create scatter plot
     if len(df_filtered_1) > 0:
+        # Multiply by 100 to convert to percentage for display
+        df_filtered_1["engagement_percentage"] = df_filtered_1["engagement_ratio"] * 100
+
         fig1 = px.scatter(
             df_filtered_1,
             x="critic_score",
-            y="engagement_ratio",
+            y="engagement_percentage",
             size="owners",
             color="critic_score_phrase",
             hover_data={
@@ -38,13 +42,17 @@ def render_engagement_chart(df_filtered):
                 "user_positive": True,
                 "user_negative": True,
                 "critic_score": ":.1f",
-                "engagement_ratio": ":.2f",
+                "engagement_percentage": ":.1f",
+                "median_playtime": ":.1f",
+                "all_styles": ":.1f",
                 "owners": ":,",
                 "critic_score_phrase": False,
             },
             labels={
                 "critic_score": "Critic Score",
-                "engagement_ratio": "Engagement Ratio (Played/Expected)",
+                "engagement_percentage": "Engagement (% Difference from Expected)",
+                "median_playtime": "Median Playtime (hours)",
+                "all_styles": "Expected Playtime (hours)",
                 "owners": "Owners",
                 "critic_score_phrase": "Critic Rating",
             },
@@ -54,12 +62,24 @@ def render_engagement_chart(df_filtered):
             size_max=30,
         )
 
+        # Add horizontal line at y=0 to show expected engagement
+        fig1.add_hline(
+            y=0,
+            line_dash="dash",
+            line_color="gray",
+            annotation_text="Expected Engagement",
+            annotation_position="right",
+        )
+
         fig1.update_layout(
             height=600,
             xaxis_title="Critic Score",
-            yaxis_title="Engagement Ratio (Played Time / Expected Time)",
+            yaxis_title="Engagement (% Difference from Expected)",
             legend_title="Critic Rating",
         )
+
+        # Update y-axis to add percentage symbol and set reasonable range
+        fig1.update_yaxes(ticksuffix="%", range=[-200, 500])  # -200% to +500%
 
         # Display the chart
         st.plotly_chart(fig1, use_container_width=True)
@@ -71,8 +91,11 @@ def render_engagement_chart(df_filtered):
         with col2:
             st.metric("Avg Critic Score", f"{df_filtered_1['critic_score'].mean():.1f}")
         with col3:
+            avg_engagement = df_filtered_1["engagement_ratio"].mean() * 100
             st.metric(
-                "Avg Engagement", f"{df_filtered_1['engagement_ratio'].mean():.2f}"
+                "Avg Engagement",
+                f"{avg_engagement:+.1f}%",
+                delta=f"{'Above' if avg_engagement > 0 else 'Below'} expected",
             )
         with col4:
             st.metric("Total Owners", f"{df_filtered_1['owners'].sum():,.0f}")
@@ -85,7 +108,6 @@ def render_engagement_chart(df_filtered):
 def render_genre_chart(df_filtered):
     """Render Chart 2: Genre and critic scores distribution."""
     st.header("2. 📦 Genre et critiques")
-    st.markdown("**Distribution des scores de critiques par genre**")
 
     # Use filtered data for Chart 2
     df_filtered_2 = df_filtered.copy()
