@@ -9,12 +9,23 @@ import numpy as np
 from config import CRITIC_RATING_ORDER
 
 
+def format_large_number(num):
+    """Format large numbers with K for thousands and M for millions."""
+    if num >= 1_000_000:
+        return f"{num / 1_000_000:.1f}M"
+    elif num >= 1_000:
+        return f"{num / 1_000:.1f}K"
+    else:
+        return f"{num:.0f}"
+
+
 def render_engagement_chart(df_filtered):
     """Render Chart 1: Impact of critic scores on player engagement."""
     st.header("1. 📊 Impact des critiques sur l'engagement")
     st.markdown(
         "**Engagement Ratio** = (median_playtime - all_styles) / all_styles  \n"
-        "**Positive** = plus d'engagement que prévu | **Negative** = moins d'engagement que prévu"
+        "**Values in K%** - percentage in thousands (e.g., 0.02K% = 20%, 2K% = 2000%)  \n"
+        "**Positive** = more engagement than expected | **Negative** = less engagement than expected"
     )
 
     # Use filtered data for Chart 1
@@ -27,8 +38,8 @@ def render_engagement_chart(df_filtered):
 
     # Create scatter plot
     if len(df_filtered_1) > 0:
-        # Multiply by 100 to convert to percentage for display
-        df_filtered_1["engagement_percentage"] = df_filtered_1["engagement_ratio"] * 100
+        # Convert to thousands: ratio * 100 (to %) / 1000 (to k) = ratio / 10
+        df_filtered_1["engagement_thousands"] = df_filtered_1["engagement_ratio"] / 10
 
         # Apply square root scale to owners for better visualization
         # Square root is better than log for bubble charts - less aggressive compression
@@ -54,7 +65,7 @@ def render_engagement_chart(df_filtered):
         fig1 = px.scatter(
             df_filtered_1,
             x="critic_score",
-            y="engagement_percentage",
+            y="engagement_thousands",
             size="bubble_size",
             color="critic_score_phrase",
             hover_data={
@@ -64,7 +75,7 @@ def render_engagement_chart(df_filtered):
                 "user_positive": True,
                 "user_negative": True,
                 "critic_score": ":.1f",
-                "engagement_percentage": ":.1f",
+                "engagement_thousands": ":.2f",
                 "median_playtime": ":.1f",
                 "all_styles": ":.1f",
                 "owners": ":,",
@@ -75,7 +86,7 @@ def render_engagement_chart(df_filtered):
             },
             labels={
                 "critic_score": "Critic Score",
-                "engagement_percentage": "Engagement (% Difference from Expected)",
+                "engagement_thousands": "Engagement (%)",
                 "median_playtime": "Median Playtime (hours)",
                 "all_styles": "Expected Playtime (hours)",
                 "owners": "Owners",
@@ -85,6 +96,25 @@ def render_engagement_chart(df_filtered):
             color_discrete_sequence=px.colors.qualitative.Set2,
             category_orders={"critic_score_phrase": CRITIC_RATING_ORDER},
             size_max=50,  # Adjusted for normalized logarithmic scale
+        )
+
+        # Update hover template to show 'k' suffix for engagement
+        fig1.update_traces(
+            hovertemplate="<br>".join(
+                [
+                    "<b>%{customdata[0]}</b>",
+                    "Critic Score: %{x:.1f}",
+                    "Engagement (%): %{y:.2f}k",
+                    "Price: $%{customdata[1]:.2f}",
+                    "Genre: %{customdata[2]}",
+                    "Positive Reviews: %{customdata[3]:,}",
+                    "Negative Reviews: %{customdata[4]:,}",
+                    "Median Playtime: %{customdata[5]:.1f} hours",
+                    "Expected Playtime: %{customdata[6]:.1f} hours",
+                    "Owners: %{customdata[7]:,}",
+                    "<extra></extra>",
+                ]
+            )
         )
 
         # Add horizontal line at y=0 to show expected engagement
@@ -99,14 +129,29 @@ def render_engagement_chart(df_filtered):
         fig1.update_layout(
             height=600,
             xaxis_title="Critic Score",
-            yaxis_title="Engagement (% Difference from Expected)",
+            yaxis_title="Engagement (%)",
             legend_title="Critic Rating",
         )
 
-        # Update y-axis to add percentage symbol and set reasonable range
-        fig1.update_yaxes(ticksuffix="%", range=[-200, 500])  # -200% to +500%
+        # Calculate dynamic y-axis range based on data with 10% offset
+        min_engagement = df_filtered_1["engagement_thousands"].min()
+        max_engagement = df_filtered_1["engagement_thousands"].max()
 
-        # Display the chart
+        # Add 10% offset to both ends for better visualization
+        y_range = max_engagement - min_engagement
+        offset = y_range * 0.1 if y_range > 0 else 1
+
+        y_min = min_engagement - offset
+        y_max = max_engagement + offset
+
+        # Ensure 0 is visible if it's within or near the range
+        if y_min > 0:
+            y_min = min(y_min, -offset)
+        if y_max < 0:
+            y_max = max(y_max, offset)
+
+        # Update y-axis with the dynamic range and add k suffix (lowercase)
+        fig1.update_yaxes(range=[y_min, y_max], ticksuffix="k")  # Display the chart
         st.plotly_chart(fig1, use_container_width=True)
 
         # Show statistics
@@ -116,14 +161,15 @@ def render_engagement_chart(df_filtered):
         with col2:
             st.metric("Avg Critic Score", f"{df_filtered_1['critic_score'].mean():.1f}")
         with col3:
-            avg_engagement = df_filtered_1["engagement_ratio"].mean() * 100
+            avg_engagement = df_filtered_1["engagement_ratio"].mean() / 10
             st.metric(
                 "Avg Engagement",
-                f"{avg_engagement:+.1f}%",
+                f"{avg_engagement:+.2f}K%",
                 delta=f"{'Above' if avg_engagement > 0 else 'Below'} expected",
             )
         with col4:
-            st.metric("Total Owners", f"{df_filtered_1['owners'].sum():,.0f}")
+            total_owners = df_filtered_1["owners"].sum()
+            st.metric("Total Owners", format_large_number(total_owners))
     else:
         st.warning("No data available with the current filters.")
 
@@ -218,6 +264,12 @@ def render_genre_chart(df_filtered):
             "Total Owners",
         ]
         top_genres = top_genres.sort_values("Avg Score", ascending=False).head(5)
+
+        # Format the Total Owners column for better readability
+        top_genres["Total Owners"] = top_genres["Total Owners"].apply(
+            format_large_number
+        )
+
         st.dataframe(top_genres, use_container_width=True)
 
     else:

@@ -78,9 +78,13 @@ def apply_filters(data, filter_state):
     # Engagement ratio filter (mandatory)
     engagement_range = filter_state.get("engagement_range")
     if engagement_range:
+        # Convert from thousands (K) display back to ratio: multiply by 10
+        # Because display is ratio/10, so to get back ratio we multiply by 10
+        engagement_min = engagement_range[0] * 10
+        engagement_max = engagement_range[1] * 10
         filtered = filtered[
-            (filtered["engagement_ratio"] >= engagement_range[0])
-            & (filtered["engagement_ratio"] <= engagement_range[1])
+            (filtered["engagement_ratio"] >= engagement_min)
+            & (filtered["engagement_ratio"] <= engagement_max)
         ]
 
     # Year filters
