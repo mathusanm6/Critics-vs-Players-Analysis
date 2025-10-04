@@ -68,7 +68,7 @@ filter_state = {
 # Render reset button
 render_reset_button()
 
-# Apply filters
+# Apply filters (without chart-selected genres)
 df_filtered = apply_filters(df, filter_state)
 
 # Display filter summary
@@ -78,8 +78,16 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-# Render charts
-render_engagement_chart(df_filtered)
+# Render engagement chart with genre filtering from chart clicks
+filter_state_for_engagement = filter_state.copy()
+if st.session_state.selected_genres:
+    filter_state_for_engagement["selected_genres"] = st.session_state.selected_genres
+
+df_filtered_engagement = apply_filters(df, filter_state_for_engagement)
+render_engagement_chart(df_filtered_engagement)
+
+# Render genre chart WITHOUT genre filtering from chart clicks
+# This allows users to see all genres and select multiple
 render_genre_chart(df_filtered)
 
 # Footer

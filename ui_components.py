@@ -56,20 +56,33 @@ def render_base_filters(df):
 
     st.sidebar.markdown("---")
 
-    # Genre filter
+    # Genre filter - disable if chart selection is active
     genres = sorted(df["genre"].dropna().unique())
+
     col1, col2 = st.sidebar.columns([5, 1])
     with col1:
         st.markdown('<i class="fa fa-gamepad"></i> **Genre**', unsafe_allow_html=True)
+
+        # Show info if filter is disabled due to chart selection
+        if st.session_state.selected_genres:
+            st.info(
+                f"🔒 {len(st.session_state.selected_genres)} genre(s) selected from chart"
+            )
+
         selected_genres = st.sidebar.multiselect(
             "Genre",
             options=["All"] + genres,
             default=["All"],
             label_visibility="collapsed",
+            disabled=len(st.session_state.selected_genres) > 0,
         )
     with col2:
         st.markdown("")  # For alignment
-        if st.button("ⓘ", key="genre_help", help="Select genres to filter games"):
+        if st.button(
+            "ⓘ",
+            key="genre_help",
+            help="Select genres to filter games or click genres in chart",
+        ):
             pass
 
     if "All" not in selected_genres and len(selected_genres) == 0:
@@ -241,24 +254,50 @@ def render_optional_filters(df):
                 st.session_state.active_optional_filters.remove("price")
                 st.rerun()
 
-        min_price = float(df["price"].min())
-        max_price = float(df["price"].max())
-        filter_values["price_range"] = st.sidebar.slider(
-            "Price Range ($)",
-            min_value=min_price,
-            max_value=max_price,
-            value=(min_price, max_price),
-            step=1.0,
-            key="price_range_filter",
+        # Toggle between range and category modes
+        price_mode = st.sidebar.radio(
+            "Filter by:",
+            options=["Price Range", "Price Category"],
+            key="price_mode_toggle",
+            horizontal=True,
             label_visibility="collapsed",
         )
 
-        filter_values["price_categories"] = st.sidebar.multiselect(
-            "Categories",
-            options=PRICE_CATEGORIES,
-            default=PRICE_CATEGORIES,
-            key="price_categories_filter",
-        )
+        # Update session state based on selection
+        if price_mode == "Price Range":
+            st.session_state.price_filter_mode = "range"
+        else:
+            st.session_state.price_filter_mode = "category"
+
+        min_price = float(df["price"].min())
+        max_price = float(df["price"].max())
+
+        # Show only the selected mode
+        if st.session_state.price_filter_mode == "range":
+            filter_values["price_range"] = st.sidebar.slider(
+                "Price Range ($)",
+                min_value=min_price,
+                max_value=max_price,
+                value=(min_price, max_price),
+                step=1.0,
+                key="price_range_filter",
+                label_visibility="collapsed",
+            )
+            filter_values["price_categories"] = (
+                PRICE_CATEGORIES  # All categories (no filtering)
+            )
+        else:
+            filter_values["price_categories"] = st.sidebar.multiselect(
+                "Categories",
+                options=PRICE_CATEGORIES,
+                default=PRICE_CATEGORIES,
+                key="price_categories_filter",
+                label_visibility="collapsed",
+            )
+            filter_values["price_range"] = (
+                min_price,
+                max_price,
+            )  # Full range (no filtering)
     else:
         min_price = float(df["price"].min())
         max_price = float(df["price"].max())
