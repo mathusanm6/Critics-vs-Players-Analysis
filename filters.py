@@ -75,14 +75,13 @@ def apply_filters(data, filter_state):
                 & (filtered["median_playtime"] <= median_playtime_range[1])
             ]
 
-    # Engagement ratio filter
-    if "engagement" in active_optional_filters:
-        engagement_range = filter_state.get("engagement_range")
-        if engagement_range:
-            filtered = filtered[
-                (filtered["engagement_ratio"] >= engagement_range[0])
-                & (filtered["engagement_ratio"] <= engagement_range[1])
-            ]
+    # Engagement ratio filter (mandatory)
+    engagement_range = filter_state.get("engagement_range")
+    if engagement_range:
+        filtered = filtered[
+            (filtered["engagement_ratio"] >= engagement_range[0])
+            & (filtered["engagement_ratio"] <= engagement_range[1])
+        ]
 
     # Year filters
     if "year" in active_optional_filters:

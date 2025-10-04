@@ -76,9 +76,6 @@ def render_base_filters(df):
         selected_genres = ["All"]
 
     # Critic score filter
-    min_critic = float(df["critic_score"].min())
-    max_critic = float(df["critic_score"].max())
-
     col1, col2 = st.sidebar.columns([5, 1])
     with col1:
         st.markdown(
@@ -86,10 +83,11 @@ def render_base_filters(df):
         )
         critic_score_range = st.sidebar.slider(
             "Critic Score",
-            min_value=min_critic,
-            max_value=max_critic,
-            value=(min_critic, max_critic),
-            step=0.5,
+            min_value=0.0,
+            max_value=10.0,
+            value=(0.0, 10.0),
+            step=0.1,
+            format="%.2f",
             label_visibility="collapsed",
         )
     with col2:
@@ -99,8 +97,29 @@ def render_base_filters(df):
 
     filter_values["selected_genres"] = selected_genres
     filter_values["critic_score_range"] = critic_score_range
-    filter_values["min_critic"] = min_critic
-    filter_values["max_critic"] = max_critic
+    filter_values["min_critic"] = 0.0
+    filter_values["max_critic"] = 10.0
+
+    # Engagement ratio filter (mandatory)
+    col1, col2 = st.sidebar.columns([5, 1])
+    with col1:
+        st.markdown(
+            '<i class="fa fa-chart-line"></i> **Engagement**', unsafe_allow_html=True
+        )
+        filter_values["engagement_range"] = st.sidebar.slider(
+            "Ratio (% diff from expected)",
+            min_value=-5.0,
+            max_value=5.0,
+            value=(-5.0, 5.0),
+            step=0.1,
+            format="%.1f",
+            key="engagement_filter",
+            label_visibility="collapsed",
+        )
+    with col2:
+        st.markdown("")  # For alignment
+        if st.button("ⓘ", key="engagement_help", help="Filter by engagement ratio"):
+            pass
 
     st.sidebar.markdown("---")
 
@@ -305,44 +324,6 @@ def render_optional_filters(df):
             median_playtime_min,
             median_playtime_max,
         )
-
-    # Engagement filter
-    if "engagement" in st.session_state.active_optional_filters:
-        col1, col2 = st.sidebar.columns([5, 1])
-        with col1:
-            st.markdown(
-                '<i class="fa fa-chart-line"></i> **Engagement**',
-                unsafe_allow_html=True,
-            )
-        with col2:
-            if st.button("✕", key="remove_engagement", help="Remove"):
-                st.session_state.active_optional_filters.remove("engagement")
-                st.rerun()
-
-        engagement_min = float(df["engagement_ratio"].min())
-        engagement_max = float(df["engagement_ratio"].max())
-
-        # Use a more reasonable range centered around 0
-        # Cap at -2.0 to +5.0 for better visualization (200% below to 500% above expected)
-        range_min = max(-2.0, engagement_min)
-        range_max = min(5.0, engagement_max)
-
-        filter_values["engagement_range"] = st.sidebar.slider(
-            "Ratio (% diff from expected)",
-            min_value=range_min,
-            max_value=range_max,
-            value=(range_min, range_max),
-            step=0.1,
-            format="%.1f",
-            key="engagement_filter",
-            label_visibility="collapsed",
-        )
-    else:
-        engagement_min = float(df["engagement_ratio"].min())
-        engagement_max = float(df["engagement_ratio"].max())
-        range_min = max(-2.0, engagement_min)
-        range_max = min(5.0, engagement_max)
-        filter_values["engagement_range"] = (range_min, range_max)
 
     # Year filter
     if "year" in st.session_state.active_optional_filters:

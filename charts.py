@@ -5,6 +5,7 @@ Chart visualization functions.
 import streamlit as st
 import plotly.express as px
 import pandas as pd
+import numpy as np
 from config import CRITIC_RATING_ORDER
 
 
@@ -29,11 +30,32 @@ def render_engagement_chart(df_filtered):
         # Multiply by 100 to convert to percentage for display
         df_filtered_1["engagement_percentage"] = df_filtered_1["engagement_ratio"] * 100
 
+        # Apply square root scale to owners for better visualization
+        # Square root is better than log for bubble charts - less aggressive compression
+        df_filtered_1["owners_sqrt"] = np.sqrt(df_filtered_1["owners"])
+
+        # Normalize the sqrt values to a reasonable range (e.g., 0-1)
+        min_sqrt = df_filtered_1["owners_sqrt"].min()
+        max_sqrt = df_filtered_1["owners_sqrt"].max()
+
+        if max_sqrt > min_sqrt:
+            # Normalize to 0-1 range, then scale to a reasonable size range
+            df_filtered_1["owners_normalized"] = (
+                df_filtered_1["owners_sqrt"] - min_sqrt
+            ) / (max_sqrt - min_sqrt)
+            # Scale to range from 0.1 to 1.0 for better size differentiation
+            df_filtered_1["bubble_size"] = 0.1 + (
+                df_filtered_1["owners_normalized"] * 0.9
+            )
+        else:
+            # If all values are the same, use a constant size
+            df_filtered_1["bubble_size"] = 0.5
+
         fig1 = px.scatter(
             df_filtered_1,
             x="critic_score",
             y="engagement_percentage",
-            size="owners",
+            size="bubble_size",
             color="critic_score_phrase",
             hover_data={
                 "title": True,
@@ -47,6 +69,9 @@ def render_engagement_chart(df_filtered):
                 "all_styles": ":.1f",
                 "owners": ":,",
                 "critic_score_phrase": False,
+                "bubble_size": False,  # Hide the calculated bubble size
+                "owners_sqrt": False,  # Hide the sqrt value
+                "owners_normalized": False,  # Hide the normalized value
             },
             labels={
                 "critic_score": "Critic Score",
@@ -59,7 +84,7 @@ def render_engagement_chart(df_filtered):
             title="Impact of Critic Scores on Player Engagement",
             color_discrete_sequence=px.colors.qualitative.Set2,
             category_orders={"critic_score_phrase": CRITIC_RATING_ORDER},
-            size_max=30,
+            size_max=50,  # Adjusted for normalized logarithmic scale
         )
 
         # Add horizontal line at y=0 to show expected engagement

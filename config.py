@@ -30,7 +30,6 @@ OPTIONAL_FILTERS = {
     "price": "Price",
     "owners": "Owners",
     "playtime": "Playtime",
-    "engagement": "Engagement Ratio (% Difference)",
     "year": "Release Year",
     "decade": "Release Decade",
     "min_reviews": "Minimum Reviews",
