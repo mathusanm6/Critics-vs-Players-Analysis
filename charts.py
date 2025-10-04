@@ -21,7 +21,7 @@ def format_large_number(num):
 
 def render_engagement_chart(df_filtered):
     """Render Chart 1: Impact of critic scores on player engagement."""
-    st.header("1. 📊 Impact des critiques sur l'engagement")
+    st.header("1. Impact des critiques sur l'engagement")
     st.markdown(
         "**Engagement Ratio** = (median_playtime - all_styles) / all_styles  \n"
         "**Values in K%** - percentage in thousands (e.g., 0.02K% = 20%, 2K% = 2000%)  \n"
@@ -179,7 +179,7 @@ def render_engagement_chart(df_filtered):
 
 def render_genre_chart(df_filtered):
     """Render Chart 2: Genre and critic scores distribution."""
-    st.header("2. 📦 Genre et critiques")
+    st.header("2. Genre et critiques")
 
     # Use filtered data for Chart 2
     df_filtered_2 = df_filtered.copy()
