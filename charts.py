@@ -60,6 +60,7 @@ def render_engagement_chart(df_filtered):
             )
         else:
             # If all values are the same, use a constant size
+            df_filtered_1["owners_normalized"] = 0.5
             df_filtered_1["bubble_size"] = 0.5
 
         fig1 = px.scatter(
