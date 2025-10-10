@@ -34,7 +34,7 @@ def render_engagement_chart(df_filtered):
         col1, col2 = st.columns([3, 1])
         with col1:
             st.info(
-                f"🎯 Filtered by genres from chart: {', '.join(st.session_state.selected_genres)}"
+                f"Filtered by genres from chart: {', '.join(st.session_state.selected_genres)}"
             )
         with col2:
             if st.button("🔄 Clear Genre Selection", key="clear_genre_selection"):
@@ -222,7 +222,7 @@ def render_genre_chart(df_filtered):
     with col2:
         if st.session_state.selected_genres:
             if st.button(
-                "🔄 Clear Selection",
+                "🔄 Clear Genre Selection",
                 key="clear_genre_selection_chart",
                 use_container_width=True,
                 type="secondary",
