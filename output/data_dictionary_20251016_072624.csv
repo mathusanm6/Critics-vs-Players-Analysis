@@ -1,0 +1,17 @@
+column,description,dtype
+title,Game title (from IGN),object
+release_date,Release date (YYYY-MM-DD),datetime64[ns]
+genre,"Game genre(s), comma-separated",object
+critic_score,IGN critic score (0-10 scale),float64
+critic_score_phrase,"IGN rating category (e.g., ""Great"", ""Amazing"")",object
+developer,Game developer (from Steam),object
+publisher,Game publisher (from Steam),object
+required_age,Minimum age requirement (from Steam),int64
+average_playtime,Average playtime in minutes (Steam user data),int64
+median_playtime,Median playtime in minutes (Steam user data),int64
+owners,Estimated number of owners (midpoint of Steam range),int64
+price,Price in USD (from Steam),float64
+main_story,Hours to complete main story (HowLongToBeat),float64
+main_extra,Hours to complete main story + extras (HowLongToBeat),float64
+completionist,Hours to 100% complete (HowLongToBeat),float64
+all_styles,Average hours across all play styles (HowLongToBeat),float64

@@ -1,0 +1,328 @@
+stage,title,reason,timestamp,base_title,steam_metrics,genre,release_date
+dlc_deduplication,Agatha Christie: Evil Under the Sun,"Identical Steam metrics to base game ""Agatha Christie: Death on the Nile""",2025-10-16T07:26:27.545732,agatha christie,"avg=163, med=188, owners=150000",,
+dlc_deduplication,Agatha Christie: And Then There Were None,"Identical Steam metrics to base game ""Agatha Christie: Death on the Nile""",2025-10-16T07:26:27.545769,agatha christie,"avg=163, med=188, owners=150000",,
+dlc_deduplication,Agatha Christie: Murder on the Orient Express,"Identical Steam metrics to base game ""Agatha Christie: Death on the Nile""",2025-10-16T07:26:27.545799,agatha christie,"avg=163, med=188, owners=150000",,
+dlc_deduplication,Age of Conan: Hyborian Adventures (Collector's Edition),"Identical Steam metrics to base game ""Age of Conan: Rise of the Godslayer""",2025-10-16T07:26:27.546713,age of conan,"avg=148, med=135, owners=750000",,
+dlc_deduplication,Age of Empires III: The WarChiefs,"Identical Steam metrics to base game ""Age of Empires III""",2025-10-16T07:26:27.547561,age of empires iii,"avg=902, med=211, owners=3500000",,
+dlc_deduplication,Age of Empires III: The Asian Dynasties,"Identical Steam metrics to base game ""Age of Empires III""",2025-10-16T07:26:27.547591,age of empires iii,"avg=902, med=211, owners=3500000",,
+dlc_deduplication,Alien Shooter: Revisited,"Identical Steam metrics to base game ""Alien Shooter: Vengeance""",2025-10-16T07:26:27.548666,alien shooter,"avg=0, med=0, owners=350000",,
+dlc_deduplication,Anarchy Online: Alien Invasion,"Identical Steam metrics to base game ""Anarchy Online: Shadowlands""",2025-10-16T07:26:27.550201,anarchy online,"avg=1, med=1, owners=75000",,
+dlc_deduplication,Assassin's Creed: Director's Cut Edition,"Identical Steam metrics to base game ""Assassin's Creed: Brotherhood""",2025-10-16T07:26:27.551149,assassin's creed,"avg=360, med=476, owners=750000",,
+dlc_deduplication,Avatar: The Last Airbender,"Identical Steam metrics to base game ""Avatar: The Game""",2025-10-16T07:26:27.552022,avatar,"avg=0, med=0, owners=10000",,
+dlc_deduplication,Avatar: The Last Airbender -- The Path of Zuko,"Identical Steam metrics to base game ""Avatar: The Game""",2025-10-16T07:26:27.552051,avatar,"avg=0, med=0, owners=10000",,
+dlc_deduplication,Battlefield: Bad Company 2 -- Vietnam,"Identical Steam metrics to base game ""Battlefield: Bad Company 2""",2025-10-16T07:26:27.553215,battlefield,"avg=1200, med=671, owners=3500000",,
+dlc_deduplication,Battlefield: Bad Company 2 (Limited Edition),"Identical Steam metrics to base game ""Battlefield: Bad Company 2""",2025-10-16T07:26:27.553244,battlefield,"avg=1200, med=671, owners=3500000",,
+dlc_deduplication,Battlestations: Pacific,"Identical Steam metrics to base game ""Battlestations: Midway""",2025-10-16T07:26:27.554049,battlestations,"avg=0, med=0, owners=350000",,
+dlc_deduplication,Bioshock Infinite: Burial at Sea -- Episode One,"Identical Steam metrics to base game ""BioShock Infinite""",2025-10-16T07:26:27.554897,bioshock infinite,"avg=614, med=519, owners=3500000",,
+dlc_deduplication,Bioshock Infinite: Burial at Sea -- Episode Two,"Identical Steam metrics to base game ""BioShock Infinite""",2025-10-16T07:26:27.554925,bioshock infinite,"avg=614, med=519, owners=3500000",,
+dlc_deduplication,Blacklight: Retribution,"Identical Steam metrics to base game ""Blacklight: Tango Down""",2025-10-16T07:26:27.555982,blacklight,"avg=129, med=193, owners=75000",,
+dlc_deduplication,Bone: The Great Cow Race,"Identical Steam metrics to base game ""Bone: Out From Boneville""",2025-10-16T07:26:27.556922,bone,"avg=0, med=0, owners=150000",,
+dlc_deduplication,Borderlands: The Pre-Sequel,"Identical Steam metrics to base game ""Borderlands""",2025-10-16T07:26:27.557743,borderlands,"avg=1661, med=886, owners=3500000",,
+dlc_deduplication,Borderlands: Mad Moxxi's Underdome Riot,"Identical Steam metrics to base game ""Borderlands""",2025-10-16T07:26:27.557770,borderlands,"avg=1661, med=886, owners=3500000",,
+dlc_deduplication,Borderlands: The Zombie Island of Dr. Ned,"Identical Steam metrics to base game ""Borderlands""",2025-10-16T07:26:27.557796,borderlands,"avg=1661, med=886, owners=3500000",,
+dlc_deduplication,Borderlands: The Pre-Sequel -- Claptastic Voyage,"Identical Steam metrics to base game ""Borderlands""",2025-10-16T07:26:27.557822,borderlands,"avg=1661, med=886, owners=3500000",,
+dlc_deduplication,Borderlands 2: Sir Hammerlock's Big Game Hunt,"Identical Steam metrics to base game ""Borderlands 2""",2025-10-16T07:26:27.558629,borderlands 2,"avg=3276, med=1139, owners=7500000",,
+dlc_deduplication,Borderlands 2: How Marcus Saved Mercenary Day,"Identical Steam metrics to base game ""Borderlands 2""",2025-10-16T07:26:27.558657,borderlands 2,"avg=3276, med=1139, owners=7500000",,
+dlc_deduplication,Borderlands 2: Mr. Torgue's Campaign of Carnage,"Identical Steam metrics to base game ""Borderlands 2""",2025-10-16T07:26:27.558683,borderlands 2,"avg=3276, med=1139, owners=7500000",,
+dlc_deduplication,Borderlands 2: Captain Scarlett and her Pirate's Booty,"Identical Steam metrics to base game ""Borderlands 2""",2025-10-16T07:26:27.558708,borderlands 2,"avg=3276, med=1139, owners=7500000",,
+dlc_deduplication,Broken Age: Act 2,"Identical Steam metrics to base game ""Broken Age: Act 1""",2025-10-16T07:26:27.559531,broken age,"avg=271, med=271, owners=750000",,
+dlc_deduplication,Chivalry: Deadliest Warrior,"Identical Steam metrics to base game ""Chivalry: Medieval Warfare""",2025-10-16T07:26:27.561452,chivalry,"avg=675, med=293, owners=7500000",,
+dlc_deduplication,Cities: Skylines -- After Dark,"Identical Steam metrics to base game ""Cities: Skylines""",2025-10-16T07:26:27.562241,cities,"avg=3225, med=444, owners=7500000",,
+dlc_deduplication,Company of Heroes 2: Ardennes Assault,"Identical Steam metrics to base game ""Company of Heroes 2""",2025-10-16T07:26:27.563737,company of heroes 2,"avg=1846, med=277, owners=3500000",,
+dlc_deduplication,Company of Heroes 2: The British Forces,"Identical Steam metrics to base game ""Company of Heroes 2""",2025-10-16T07:26:27.563764,company of heroes 2,"avg=1846, med=277, owners=3500000",,
+dlc_deduplication,Conflict: Denied Ops,"Identical Steam metrics to base game ""Conflict: Vietnam""",2025-10-16T07:26:27.564551,conflict,"avg=0, med=0, owners=75000",,
+dlc_deduplication,Conflict: Global Terror,"Identical Steam metrics to base game ""Conflict: Vietnam""",2025-10-16T07:26:27.564578,conflict,"avg=0, med=0, owners=75000",,
+dlc_deduplication,Conflict: Desert Storm II: Back to Baghdad,"Identical Steam metrics to base game ""Conflict: Vietnam""",2025-10-16T07:26:27.564608,conflict,"avg=0, med=0, owners=75000",,
+dlc_deduplication,Dark Souls II: Crown of the Sunken King,"Identical Steam metrics to base game ""Dark Souls II""",2025-10-16T07:26:27.565789,dark souls ii,"avg=2377, med=3041, owners=1500000",,
+dlc_deduplication,Defiance,"Identical Steam metrics to base game ""Defiance""",2025-10-16T07:26:27.567456,defiance,"avg=953, med=324, owners=3500000",,
+dlc_deduplication,Delta Force: Black Hawk Down,"Identical Steam metrics to base game ""Delta Force: Xtreme 2""",2025-10-16T07:26:27.568244,delta force,"avg=0, med=0, owners=35000",,
+dlc_deduplication,Delta Force: Black Hawk Down -- Team Sabre,"Identical Steam metrics to base game ""Delta Force: Xtreme 2""",2025-10-16T07:26:27.568272,delta force,"avg=0, med=0, owners=35000",,
+dlc_deduplication,Disciples II: Servants of the Dark,"Identical Steam metrics to base game ""Disciples II: Rise of the Elves""",2025-10-16T07:26:27.569320,disciples ii,"avg=0, med=0, owners=150000",,
+dlc_deduplication,Disciples II: Guardians of the Light,"Identical Steam metrics to base game ""Disciples II: Rise of the Elves""",2025-10-16T07:26:27.569347,disciples ii,"avg=0, med=0, owners=150000",,
+dlc_deduplication,Dishonored: The Knife of Dunwall,"Identical Steam metrics to base game ""Dishonored""",2025-10-16T07:26:27.570113,dishonored,"avg=749, med=565, owners=3500000",,
+dlc_deduplication,Dishonored: The Brigmore Witches,"Identical Steam metrics to base game ""Dishonored""",2025-10-16T07:26:27.570142,dishonored,"avg=749, med=565, owners=3500000",,
+dlc_deduplication,Divinity: Dragon Commander,"Identical Steam metrics to base game ""Divinity: Original Sin""",2025-10-16T07:26:27.570914,divinity,"avg=430, med=686, owners=350000",,
+dlc_deduplication,Divinity II: Flames of Vengeance,"Identical Steam metrics to base game ""Divinity II: Ego Draconis""",2025-10-16T07:26:27.571666,divinity ii,"avg=2511, med=70, owners=750000",,
+dlc_deduplication,Dragon Age: Inquisition,"Identical Steam metrics to base game ""Dragon Age: Origins""",2025-10-16T07:26:27.572693,dragon age,"avg=2061, med=2889, owners=750000",,
+dlc_deduplication,Dragon Age: Origins -- Awakening,"Identical Steam metrics to base game ""Dragon Age: Origins""",2025-10-16T07:26:27.572720,dragon age,"avg=2061, med=2889, owners=750000",,
+dlc_deduplication,Dragon Age: Origins -- Witch Hunt,"Identical Steam metrics to base game ""Dragon Age: Origins""",2025-10-16T07:26:27.572745,dragon age,"avg=2061, med=2889, owners=750000",,
+dlc_deduplication,Dragon Age: Origins -- Leliana's Song,"Identical Steam metrics to base game ""Dragon Age: Origins""",2025-10-16T07:26:27.572769,dragon age,"avg=2061, med=2889, owners=750000",,
+dlc_deduplication,Dragon Age: Inquisition -- Trespasser,"Identical Steam metrics to base game ""Dragon Age: Origins""",2025-10-16T07:26:27.572798,dragon age,"avg=2061, med=2889, owners=750000",,
+dlc_deduplication,Dragon Age: Origins -- Return to Ostagar,"Identical Steam metrics to base game ""Dragon Age: Origins""",2025-10-16T07:26:27.572827,dragon age,"avg=2061, med=2889, owners=750000",,
+dlc_deduplication,Dragon Age: Origins -- Darkspawn Chronicles,"Identical Steam metrics to base game ""Dragon Age: Origins""",2025-10-16T07:26:27.572852,dragon age,"avg=2061, med=2889, owners=750000",,
+dlc_deduplication,Dragon Age: Origins (Collector's Edition),"Identical Steam metrics to base game ""Dragon Age: Origins""",2025-10-16T07:26:27.572878,dragon age,"avg=2061, med=2889, owners=750000",,
+dlc_deduplication,Dungeon Siege II: Broken World,"Identical Steam metrics to base game ""Dungeon Siege II""",2025-10-16T07:26:27.573935,dungeon siege ii,"avg=754, med=1502, owners=750000",,
+dlc_deduplication,Dungeons & Dragons: Chronicles of Mystara,"Identical Steam metrics to base game ""Dungeons & Dragons: Dragonshard""",2025-10-16T07:26:27.574818,dungeons & dragons,"avg=0, med=0, owners=150000",,
+dlc_deduplication,Dungeons & Dragons: The Temple of Elemental Evil -- A Classic Greyhawk Adventure,"Identical Steam metrics to base game ""Dungeons & Dragons: Dragonshard""",2025-10-16T07:26:27.574849,dungeons & dragons,"avg=0, med=0, owners=150000",,
+dlc_deduplication,Dying Light: The Following,"Identical Steam metrics to base game ""Dying Light""",2025-10-16T07:26:27.575682,dying light,"avg=2033, med=1299, owners=3500000",,
+dlc_deduplication,Empire: Total War (Special Forces Edition),"Identical Steam metrics to base game ""Empire: Total War""",2025-10-16T07:26:27.576597,empire,"avg=0, med=0, owners=10000",,
+dlc_deduplication,Europa Universalis: Crown of the North,"Identical Steam metrics to base game ""Europa Universalis: Rome""",2025-10-16T07:26:27.577507,europa universalis,"avg=4975, med=4975, owners=75000",,
+dlc_deduplication,Europa Universalis: Rome -- Vae Victis,"Identical Steam metrics to base game ""Europa Universalis: Rome""",2025-10-16T07:26:27.577537,europa universalis,"avg=4975, med=4975, owners=75000",,
+dlc_deduplication,EverQuest: Gates of Discord,"Identical Steam metrics to base game ""EverQuest: Omens of War""",2025-10-16T07:26:27.578372,everquest,"avg=20, med=20, owners=750000",,
+dlc_deduplication,EverQuest: Lost Dungeons of Norrath,"Identical Steam metrics to base game ""EverQuest: Omens of War""",2025-10-16T07:26:27.578399,everquest,"avg=20, med=20, owners=750000",,
+dlc_deduplication,EverQuest II: Kingdom of Sky,"Identical Steam metrics to base game ""EverQuest II""",2025-10-16T07:26:27.579212,everquest ii,"avg=548, med=604, owners=750000",,
+dlc_deduplication,EverQuest II: Rise of Kunark,"Identical Steam metrics to base game ""EverQuest II""",2025-10-16T07:26:27.579240,everquest ii,"avg=548, med=604, owners=750000",,
+dlc_deduplication,EverQuest II: Sentinel's Fate,"Identical Steam metrics to base game ""EverQuest II""",2025-10-16T07:26:27.579266,everquest ii,"avg=548, med=604, owners=750000",,
+dlc_deduplication,EverQuest II: Desert of Flames,"Identical Steam metrics to base game ""EverQuest II""",2025-10-16T07:26:27.579291,everquest ii,"avg=548, med=604, owners=750000",,
+dlc_deduplication,EverQuest II: Echoes of Faydwer,"Identical Steam metrics to base game ""EverQuest II""",2025-10-16T07:26:27.579317,everquest ii,"avg=548, med=604, owners=750000",,
+dlc_deduplication,EverQuest II: The Shadow Odyssey,"Identical Steam metrics to base game ""EverQuest II""",2025-10-16T07:26:27.579341,everquest ii,"avg=548, med=604, owners=750000",,
+dlc_deduplication,Fallen Enchantress: Legendary Heroes,"Identical Steam metrics to base game ""Fallen Enchantress""",2025-10-16T07:26:27.580236,fallen enchantress,"avg=1610, med=2874, owners=350000",,
+dlc_deduplication,Fallout: New Vegas -- Dead Money,"Identical Steam metrics to base game ""Fallout: New Vegas""",2025-10-16T07:26:27.581040,fallout,"avg=2485, med=1431, owners=3500000",,
+dlc_deduplication,Fallout: New Vegas -- Honest Hearts,"Identical Steam metrics to base game ""Fallout: New Vegas""",2025-10-16T07:26:27.581068,fallout,"avg=2485, med=1431, owners=3500000",,
+dlc_deduplication,Fallout: New Vegas -- Lonesome Road,"Identical Steam metrics to base game ""Fallout: New Vegas""",2025-10-16T07:26:27.581095,fallout,"avg=2485, med=1431, owners=3500000",,
+dlc_deduplication,Fallout: New Vegas -- Old World Blues,"Identical Steam metrics to base game ""Fallout: New Vegas""",2025-10-16T07:26:27.581122,fallout,"avg=2485, med=1431, owners=3500000",,
+dlc_deduplication,Fallout 3 -- The Pitt,"Identical Steam metrics to base game ""Fallout 3""",2025-10-16T07:26:27.581926,fallout 3,"avg=588, med=617, owners=750000",,
+dlc_deduplication,Fallout 3 -- Broken Steel,"Identical Steam metrics to base game ""Fallout 3""",2025-10-16T07:26:27.581952,fallout 3,"avg=588, med=617, owners=750000",,
+dlc_deduplication,Fallout 3 -- Point Lookout,"Identical Steam metrics to base game ""Fallout 3""",2025-10-16T07:26:27.581978,fallout 3,"avg=588, med=617, owners=750000",,
+dlc_deduplication,Fallout 3 -- Mothership Zeta,"Identical Steam metrics to base game ""Fallout 3""",2025-10-16T07:26:27.582004,fallout 3,"avg=588, med=617, owners=750000",,
+dlc_deduplication,Fallout 3 -- Operation: Anchorage,"Identical Steam metrics to base game ""Fallout 3""",2025-10-16T07:26:27.582027,fallout 3,"avg=588, med=617, owners=750000",,
+dlc_deduplication,Fallout 3 -- Game of the Year Edition,"Identical Steam metrics to base game ""Fallout 3""",2025-10-16T07:26:27.582052,fallout 3,"avg=588, med=617, owners=750000",,
+dlc_deduplication,Fallout 4: Automatron,"Identical Steam metrics to base game ""Fallout 4""",2025-10-16T07:26:27.582900,fallout 4,"avg=4822, med=2904, owners=7500000",,
+dlc_deduplication,Fallout 4: Far Harbor,"Identical Steam metrics to base game ""Fallout 4""",2025-10-16T07:26:27.582926,fallout 4,"avg=4822, med=2904, owners=7500000",,
+dlc_deduplication,Fallout 4: Nuka World,"Identical Steam metrics to base game ""Fallout 4""",2025-10-16T07:26:27.582952,fallout 4,"avg=4822, med=2904, owners=7500000",,
+dlc_deduplication,Fallout 4: Contraptions,"Identical Steam metrics to base game ""Fallout 4""",2025-10-16T07:26:27.582975,fallout 4,"avg=4822, med=2904, owners=7500000",,
+dlc_deduplication,Fallout 4: Wasteland Workshop,"Identical Steam metrics to base game ""Fallout 4""",2025-10-16T07:26:27.582998,fallout 4,"avg=4822, med=2904, owners=7500000",,
+dlc_deduplication,Fallout 4: Vault-Tec Workshop,"Identical Steam metrics to base game ""Fallout 4""",2025-10-16T07:26:27.583021,fallout 4,"avg=4822, med=2904, owners=7500000",,
+dlc_deduplication,Far Cry 3: Blood Dragon,"Identical Steam metrics to base game ""Far Cry 3""",2025-10-16T07:26:27.583799,far cry 3,"avg=836, med=794, owners=3500000",,
+dlc_deduplication,Final Fantasy XIV Online: Heavensward,"Identical Steam metrics to base game ""Final Fantasy XIV Online""",2025-10-16T07:26:27.584610,final fantasy xiv online,"avg=28897, med=9324, owners=1500000",,
+dlc_deduplication,Final Fantasy XIV Online: A Realm Reborn,"Identical Steam metrics to base game ""Final Fantasy XIV Online""",2025-10-16T07:26:27.584637,final fantasy xiv online,"avg=28897, med=9324, owners=1500000",,
+dlc_deduplication,Galactic Civilizations II: Dark Avatar,"Identical Steam metrics to base game ""Galactic Civilizations II: Dread Lords""",2025-10-16T07:26:27.585821,galactic civilizations ii,"avg=13, med=17, owners=750000",,
+dlc_deduplication,Galactic Civilizations II: Twilight of the Arnor,"Identical Steam metrics to base game ""Galactic Civilizations II: Dread Lords""",2025-10-16T07:26:27.585848,galactic civilizations ii,"avg=13, med=17, owners=750000",,
+dlc_deduplication,Game of Thrones: Episode 2 -- The Lost Lords,"Identical Steam metrics to base game ""Game of Thrones: Episode 1 -- Iron From Ice""",2025-10-16T07:26:27.586628,game of thrones,"avg=1042, med=1421, owners=350000",,
+dlc_deduplication,Game of Thrones: Episode 4 -- Sons of Winter,"Identical Steam metrics to base game ""Game of Thrones: Episode 1 -- Iron From Ice""",2025-10-16T07:26:27.586655,game of thrones,"avg=1042, med=1421, owners=350000",,
+dlc_deduplication,Game of Thrones: Episode 6 -- The Ice Dragon,"Identical Steam metrics to base game ""Game of Thrones: Episode 1 -- Iron From Ice""",2025-10-16T07:26:27.586681,game of thrones,"avg=1042, med=1421, owners=350000",,
+dlc_deduplication,Game of Thrones: Episode 5 -- A Nest Of Vipers,"Identical Steam metrics to base game ""Game of Thrones: Episode 1 -- Iron From Ice""",2025-10-16T07:26:27.586704,game of thrones,"avg=1042, med=1421, owners=350000",,
+dlc_deduplication,Game of Thrones: Episode 3 -- The Sword in the Darkness,"Identical Steam metrics to base game ""Game of Thrones: Episode 1 -- Iron From Ice""",2025-10-16T07:26:27.586728,game of thrones,"avg=1042, med=1421, owners=350000",,
+dlc_deduplication,Gothic 3: Forsaken Gods,"Identical Steam metrics to base game ""Gothic 3""",2025-10-16T07:26:27.587578,gothic 3,"avg=1401, med=1652, owners=750000",,
+dlc_deduplication,Gothic 3: Forsaken Gods (Collector's Edition),"Identical Steam metrics to base game ""Gothic 3""",2025-10-16T07:26:27.587604,gothic 3,"avg=1401, med=1652, owners=750000",,
+dlc_deduplication,Hector: Badge of Carnage -- Episode 3: Beyond Reasonable Doom,"Identical Steam metrics to base game ""Hector: Badge of Carnage -- Episode 2""",2025-10-16T07:26:27.589195,hector,"avg=0, med=0, owners=350000",,
+dlc_deduplication,Hector: Badge of Carnage -- Episode 1: We Negotiate with Terrorists,"Identical Steam metrics to base game ""Hector: Badge of Carnage -- Episode 2""",2025-10-16T07:26:27.589224,hector,"avg=0, med=0, owners=350000",,
+dlc_deduplication,Hidden & Dangerous 2: Sabre Squadron,"Identical Steam metrics to base game ""Hidden & Dangerous 2""",2025-10-16T07:26:27.590222,hidden & dangerous 2,"avg=0, med=0, owners=10000",,
+dlc_deduplication,IL-2 Sturmovik: Cliffs of Dover,"Identical Steam metrics to base game ""IL-2 Sturmovik: 1946""",2025-10-16T07:26:27.591514,il-2 sturmovik,"avg=1812, med=1812, owners=350000",,
+dlc_deduplication,IL-2 Sturmovik: Forgotten Battles -- WWII 1941-1944,"Identical Steam metrics to base game ""IL-2 Sturmovik: 1946""",2025-10-16T07:26:27.591542,il-2 sturmovik,"avg=1812, med=1812, owners=350000",,
+dlc_deduplication,IL-2 Sturmovik: Forgotten Battles -- Ace Expansion Pack,"Identical Steam metrics to base game ""IL-2 Sturmovik: 1946""",2025-10-16T07:26:27.591567,il-2 sturmovik,"avg=1812, med=1812, owners=350000",,
+dlc_deduplication,Joint Operations: Typhoon Rising,"Identical Steam metrics to base game ""Joint Operations: Escalation""",2025-10-16T07:26:27.592459,joint operations,"avg=0, med=0, owners=10000",,
+dlc_deduplication,Kentucky Route Zero: Act 2,"Identical Steam metrics to base game ""Kentucky Route Zero: Act 1""",2025-10-16T07:26:27.593269,kentucky route zero,"avg=0, med=0, owners=350000",,
+dlc_deduplication,Kentucky Route Zero: Act 4,"Identical Steam metrics to base game ""Kentucky Route Zero: Act 1""",2025-10-16T07:26:27.593295,kentucky route zero,"avg=0, med=0, owners=350000",,
+dlc_deduplication,King's Quest -- Episode 2: Rubble without a Cause,"Identical Steam metrics to base game ""King's Quest -- Episode 1: A Knight to Remember""",2025-10-16T07:26:27.594119,king's quest,"avg=56, med=56, owners=350000",,
+dlc_deduplication,Left 4 Dead -- Crash Course,"Identical Steam metrics to base game ""Left 4 Dead""",2025-10-16T07:26:27.595036,left 4 dead,"avg=897, med=278, owners=7500000",,
+dlc_deduplication,Left 4 Dead 2: Cold Stream,"Identical Steam metrics to base game ""Left 4 Dead 2""",2025-10-16T07:26:27.595869,left 4 dead 2,"avg=1615, med=566, owners=15000000",,
+dlc_deduplication,Left 4 Dead 2: The Passing,"Identical Steam metrics to base game ""Left 4 Dead 2""",2025-10-16T07:26:27.595899,left 4 dead 2,"avg=1615, med=566, owners=15000000",,
+dlc_deduplication,Leisure Suit Larry: Box Office Bust,"Identical Steam metrics to base game ""Leisure Suit Larry: Magna Cum Laude""",2025-10-16T07:26:27.597014,leisure suit larry,"avg=1048, med=1048, owners=10000",,
+dlc_deduplication,Life is Strange -- Episode 4: Dark Room,"Identical Steam metrics to base game ""Life is Strange -- Episode 1: Chrysalis""",2025-10-16T07:26:27.597845,life is strange,"avg=412, med=145, owners=7500000",,
+dlc_deduplication,Life is Strange -- Episode 2: Out of Time,"Identical Steam metrics to base game ""Life is Strange -- Episode 1: Chrysalis""",2025-10-16T07:26:27.597875,life is strange,"avg=412, med=145, owners=7500000",,
+dlc_deduplication,Life is Strange -- Episode 3: Chaos Theory,"Identical Steam metrics to base game ""Life is Strange -- Episode 1: Chrysalis""",2025-10-16T07:26:27.597901,life is strange,"avg=412, med=145, owners=7500000",,
+dlc_deduplication,Lost Planet: Extreme Condition -- Colonies Edition,"Identical Steam metrics to base game ""Lost Planet: Extreme Condition""",2025-10-16T07:26:27.598777,lost planet,"avg=74, med=74, owners=350000",,
+dlc_deduplication,Mafia II: Jimmy's Vendetta,"Identical Steam metrics to base game ""Mafia II""",2025-10-16T07:26:27.599632,mafia ii,"avg=1029, med=988, owners=3500000",,
+dlc_deduplication,Magicka: Wizard Wars,"Identical Steam metrics to base game ""Magicka""",2025-10-16T07:26:27.600584,magicka,"avg=589, med=369, owners=3500000",,
+dlc_deduplication,Mass Effect 2: Arrival,"Identical Steam metrics to base game ""Mass Effect 2""",2025-10-16T07:26:27.601434,mass effect 2,"avg=1087, med=736, owners=1500000",,
+dlc_deduplication,Mass Effect 2: Overlord,"Identical Steam metrics to base game ""Mass Effect 2""",2025-10-16T07:26:27.601460,mass effect 2,"avg=1087, med=736, owners=1500000",,
+dlc_deduplication,Mass Effect 2: Kasumi's Stolen Memory,"Identical Steam metrics to base game ""Mass Effect 2""",2025-10-16T07:26:27.601485,mass effect 2,"avg=1087, med=736, owners=1500000",,
+dlc_deduplication,Mass Effect 2: Lair of the Shadow Broker,"Identical Steam metrics to base game ""Mass Effect 2""",2025-10-16T07:26:27.601509,mass effect 2,"avg=1087, med=736, owners=1500000",,
+dlc_deduplication,Medieval II: Total War Kingdoms,"Identical Steam metrics to base game ""Medieval II: Total War""",2025-10-16T07:26:27.602634,medieval ii,"avg=0, med=0, owners=350000",,
+dlc_deduplication,Metro: Last Light,"Identical Steam metrics to base game ""Metro: Redux""",2025-10-16T07:26:27.603885,metro,"avg=363, med=328, owners=3500000",,
+dlc_deduplication,Microsoft Flight Simulator X: Acceleration,"Identical Steam metrics to base game ""Microsoft Flight Simulator X""",2025-10-16T07:26:27.604689,microsoft flight simulator x,"avg=991, med=1224, owners=1500000",,
+dlc_deduplication,Minecraft: Story Mode -- Episode 2: Assembly Required,"Identical Steam metrics to base game ""Minecraft""",2025-10-16T07:26:27.605524,minecraft,"avg=399, med=432, owners=350000",,
+dlc_deduplication,Minecraft: Story Mode -- Episode 1: The Order of the Stone,"Identical Steam metrics to base game ""Minecraft""",2025-10-16T07:26:27.605553,minecraft,"avg=399, med=432, owners=350000",,
+dlc_deduplication,Nancy Drew: The Phantom of Venice,"Identical Steam metrics to base game ""Nancy Drew: The Deadly Device""",2025-10-16T07:26:27.606701,nancy drew,"avg=0, med=0, owners=10000",,
+dlc_deduplication,Nancy Drew: Ransom of the Seven Ships,"Identical Steam metrics to base game ""Nancy Drew: The Deadly Device""",2025-10-16T07:26:27.606729,nancy drew,"avg=0, med=0, owners=10000",,
+dlc_deduplication,Nancy Drew: Legend of the Crystal Skull,"Identical Steam metrics to base game ""Nancy Drew: The Deadly Device""",2025-10-16T07:26:27.606754,nancy drew,"avg=0, med=0, owners=10000",,
+dlc_deduplication,Nancy Drew: The Haunting of Castle Malloy,"Identical Steam metrics to base game ""Nancy Drew: The Deadly Device""",2025-10-16T07:26:27.606780,nancy drew,"avg=0, med=0, owners=10000",,
+dlc_deduplication,Neverwinter Nights: Hordes of the Underdark,"Identical Steam metrics to base game ""Neverwinter Nights: Shadows of Undrentide""",2025-10-16T07:26:27.607644,neverwinter nights,"avg=65, med=65, owners=150000",,
+dlc_deduplication,Operation Flashpoint: Dragon Rising,"Identical Steam metrics to base game ""Operation Flashpoint: Red River""",2025-10-16T07:26:27.608523,operation flashpoint,"avg=413, med=417, owners=750000",,
+dlc_deduplication,Outlast: Whistleblower,"Identical Steam metrics to base game ""Outlast""",2025-10-16T07:26:27.609387,outlast,"avg=751, med=166, owners=3500000",,
+dlc_deduplication,Pacific Storm: Allies,"Identical Steam metrics to base game ""Pacific Storm""",2025-10-16T07:26:27.610187,pacific storm,"avg=0, med=0, owners=75000",,
+dlc_deduplication,Painkiller: Overdose,"Identical Steam metrics to base game ""Painkiller""",2025-10-16T07:26:27.610971,painkiller,"avg=0, med=0, owners=150000",,
+dlc_deduplication,Painkiller: Resurrection,"Identical Steam metrics to base game ""Painkiller""",2025-10-16T07:26:27.610997,painkiller,"avg=0, med=0, owners=150000",,
+dlc_deduplication,Painkiller: Hell & Damnation,"Identical Steam metrics to base game ""Painkiller""",2025-10-16T07:26:27.611024,painkiller,"avg=0, med=0, owners=150000",,
+dlc_deduplication,Painkiller: Battle out of Hell,"Identical Steam metrics to base game ""Painkiller""",2025-10-16T07:26:27.611049,painkiller,"avg=0, med=0, owners=150000",,
+dlc_deduplication,Penumbra: Overture,"Identical Steam metrics to base game ""Penumbra: Requiem""",2025-10-16T07:26:27.611901,penumbra,"avg=188, med=189, owners=350000",,
+dlc_deduplication,Penumbra: Black Plague,"Identical Steam metrics to base game ""Penumbra: Requiem""",2025-10-16T07:26:27.611927,penumbra,"avg=188, med=189, owners=350000",,
+dlc_deduplication,Postal 2: Share the Pain,"Identical Steam metrics to base game ""Postal 2""",2025-10-16T07:26:27.612982,postal 2,"avg=257, med=172, owners=1500000",,
+dlc_deduplication,Puzzle Quest: Challenge of the Warlords,"Identical Steam metrics to base game ""Puzzle Quest: Galactrix""",2025-10-16T07:26:27.614068,puzzle quest,"avg=0, med=0, owners=35000",,
+dlc_deduplication,Red Orchestra 2: Heroes of Stalingrad,"Identical Steam metrics to base game ""Red Orchestra 2: Rising Storm""",2025-10-16T07:26:27.615203,red orchestra 2,"avg=771, med=269, owners=3500000",,
+dlc_deduplication,Rift: Storm Legion,"Identical Steam metrics to base game ""Rift""",2025-10-16T07:26:27.616124,rift,"avg=4104, med=1997, owners=3500000",,
+dlc_deduplication,Rise of Nations: Rise of Legends,"Identical Steam metrics to base game ""Rise of Nations""",2025-10-16T07:26:27.616895,rise of nations,"avg=2379, med=2379, owners=750000",,
+dlc_deduplication,Rise of Nations: Thrones and Patriots,"Identical Steam metrics to base game ""Rise of Nations""",2025-10-16T07:26:27.616923,rise of nations,"avg=2379, med=2379, owners=750000",,
+dlc_deduplication,RollerCoaster Tycoon 2: Time Twister,"Identical Steam metrics to base game ""RollerCoaster Tycoon 2: Wacky Worlds""",2025-10-16T07:26:27.617830,rollercoaster tycoon 2,"avg=200, med=262, owners=750000",,
+dlc_deduplication,RollerCoaster Tycoon 3: Wild!,"Identical Steam metrics to base game ""RollerCoaster Tycoon 3""",2025-10-16T07:26:27.618724,rollercoaster tycoon 3,"avg=2577, med=4878, owners=150000",,
+dlc_deduplication,Saints Row IV: Gat Out of Hell,"Identical Steam metrics to base game ""Saints Row IV""",2025-10-16T07:26:27.620091,saints row iv,"avg=1279, med=1094, owners=3500000",,
+dlc_deduplication,Section 8: Prejudice,"Identical Steam metrics to base game ""Section 8""",2025-10-16T07:26:27.620930,section 8,"avg=53, med=53, owners=350000",,
+dlc_deduplication,Serious Sam: The Random Encounter,"Identical Steam metrics to base game ""Serious Sam: Double D""",2025-10-16T07:26:27.621708,serious sam,"avg=18, med=18, owners=750000",,
+dlc_deduplication,Serious Sam HD: The Second Encounter,"Identical Steam metrics to base game ""Serious Sam HD""",2025-10-16T07:26:27.622551,serious sam hd,"avg=277, med=271, owners=1500000",,
+dlc_deduplication,Shadowrun: Hong Kong,"Identical Steam metrics to base game ""Shadowrun""",2025-10-16T07:26:27.623445,shadowrun,"avg=505, med=424, owners=750000",,
+dlc_deduplication,Sherlock Holmes: The Awakened,"Identical Steam metrics to base game ""Sherlock Holmes: Nemesis""",2025-10-16T07:26:27.624295,sherlock holmes,"avg=0, med=0, owners=150000",,
+dlc_deduplication,Sherlock Holmes: Crimes & Punishments,"Identical Steam metrics to base game ""Sherlock Holmes: Nemesis""",2025-10-16T07:26:27.624324,sherlock holmes,"avg=0, med=0, owners=150000",,
+dlc_deduplication,Sid Meier's Civilization: Beyond Earth -- Rising Tide,"Identical Steam metrics to base game ""Sid Meier's Civilization: Beyond Earth""",2025-10-16T07:26:27.625126,sid meier's civilization,"avg=932, med=1552, owners=1500000",,
+dlc_deduplication,Sid Meier's Civilization V: Gods & Kings,"Identical Steam metrics to base game ""Sid Meier's Civilization V""",2025-10-16T07:26:27.626091,sid meier's civilization v,"avg=4760, med=1797, owners=7500000",,
+dlc_deduplication,Sid Meier's Civilization V: Brave New World,"Identical Steam metrics to base game ""Sid Meier's Civilization V""",2025-10-16T07:26:27.626116,sid meier's civilization v,"avg=4760, med=1797, owners=7500000",,
+dlc_deduplication,Spider-Man: Web of Shadows,"Identical Steam metrics to base game ""Spider-Man: Friend or Foe""",2025-10-16T07:26:27.627523,spider-man,"avg=0, med=0, owners=35000",,
+dlc_deduplication,Spore: Galactic Edition,"Identical Steam metrics to base game ""Spore""",2025-10-16T07:26:27.628285,spore,"avg=1142, med=764, owners=3500000",,
+dlc_deduplication,Spore: Galactic Adventures,"Identical Steam metrics to base game ""Spore""",2025-10-16T07:26:27.628312,spore,"avg=1142, med=764, owners=3500000",,
+dlc_deduplication,Star Trek: Legacy,"Identical Steam metrics to base game ""Star Trek: D-A-C""",2025-10-16T07:26:27.629088,star trek,"avg=0, med=0, owners=10000",,
+dlc_deduplication,Star Trek: The Game,"Identical Steam metrics to base game ""Star Trek: D-A-C""",2025-10-16T07:26:27.629115,star trek,"avg=0, med=0, owners=10000",,
+dlc_deduplication,Star Trek: Elite Force II,"Identical Steam metrics to base game ""Star Trek: D-A-C""",2025-10-16T07:26:27.629141,star trek,"avg=0, med=0, owners=10000",,
+dlc_deduplication,Strong Bad's Cool Game for Attractive People -- Episode 1: Homestar Ruiner,"Identical Steam metrics to base game ""Strong Bad's Cool Game for Attractive People -- Episode 4: Dangeresque 3""",2025-10-16T07:26:27.630248,strong bad's cool game for attractive people,"avg=0, med=0, owners=150000",,
+dlc_deduplication,Strong Bad's Cool Game for Attractive People -- Episode 5: 8-Bit Is Enough,"Identical Steam metrics to base game ""Strong Bad's Cool Game for Attractive People -- Episode 4: Dangeresque 3""",2025-10-16T07:26:27.630275,strong bad's cool game for attractive people,"avg=0, med=0, owners=150000",,
+dlc_deduplication,Strong Bad's Cool Game for Attractive People -- Episode 2: Strongbadia the Free,"Identical Steam metrics to base game ""Strong Bad's Cool Game for Attractive People -- Episode 4: Dangeresque 3""",2025-10-16T07:26:27.630300,strong bad's cool game for attractive people,"avg=0, med=0, owners=150000",,
+dlc_deduplication,Strong Bad's Cool Game for Attractive People -- Episode 3: Baddest of the Bands,"Identical Steam metrics to base game ""Strong Bad's Cool Game for Attractive People -- Episode 4: Dangeresque 3""",2025-10-16T07:26:27.630324,strong bad's cool game for attractive people,"avg=0, med=0, owners=150000",,
+dlc_deduplication,Sword of the Stars: Born of Blood,"Identical Steam metrics to base game ""Sword of the Stars""",2025-10-16T07:26:27.631440,sword of the stars,"avg=0, med=0, owners=150000",,
+dlc_deduplication,Sword of the Stars: A Murder of Crows,"Identical Steam metrics to base game ""Sword of the Stars""",2025-10-16T07:26:27.631466,sword of the stars,"avg=0, med=0, owners=150000",,
+dlc_deduplication,Tales from the Borderlands -- Episode 1: Zer0 Sum,"Identical Steam metrics to base game ""Tales from the Borderlands -- Episode 5 The Vault of the Traveler""",2025-10-16T07:26:27.632296,tales from the borderlands,"avg=524, med=518, owners=1500000",,
+dlc_deduplication,Tales from the Borderlands -- Episode 2: Atlas Mugged,"Identical Steam metrics to base game ""Tales from the Borderlands -- Episode 5 The Vault of the Traveler""",2025-10-16T07:26:27.632323,tales from the borderlands,"avg=524, med=518, owners=1500000",,
+dlc_deduplication,Tales from the Borderlands -- Episode 3:  Catch a Ride,"Identical Steam metrics to base game ""Tales from the Borderlands -- Episode 5 The Vault of the Traveler""",2025-10-16T07:26:27.632351,tales from the borderlands,"avg=524, med=518, owners=1500000",,
+dlc_deduplication,Tales from the Borderlands -- Episode 4: Escape Plan Bravo,"Identical Steam metrics to base game ""Tales from the Borderlands -- Episode 5 The Vault of the Traveler""",2025-10-16T07:26:27.632377,tales from the borderlands,"avg=524, med=518, owners=1500000",,
+dlc_deduplication,The Elder Scrolls IV: The Shivering Isles,"Identical Steam metrics to base game ""The Elder Scrolls IV: Oblivion""",2025-10-16T07:26:27.633818,the elder scrolls iv,"avg=1307, med=630, owners=1500000",,
+dlc_deduplication,The Elder Scrolls V: Skyrim -- Dawnguard,"Identical Steam metrics to base game ""The Elder Scrolls V: Skyrim""",2025-10-16T07:26:27.634598,the elder scrolls v,"avg=7089, med=3885, owners=15000000",,
+dlc_deduplication,The Lord of the Rings: War of the Ring,"Identical Steam metrics to base game ""The Lord of the Rings: Conquest""",2025-10-16T07:26:27.635467,the lord of the rings,"avg=0, med=0, owners=35000",,
+dlc_deduplication,The Lord of the Rings: War in the North,"Identical Steam metrics to base game ""The Lord of the Rings: Conquest""",2025-10-16T07:26:27.635493,the lord of the rings,"avg=0, med=0, owners=35000",,
+dlc_deduplication,The Lord of the Rings: The Return of the King,"Identical Steam metrics to base game ""The Lord of the Rings: Conquest""",2025-10-16T07:26:27.635518,the lord of the rings,"avg=0, med=0, owners=35000",,
+dlc_deduplication,The Lord of the Rings: The Battle for Middle-earth,"Identical Steam metrics to base game ""The Lord of the Rings: Conquest""",2025-10-16T07:26:27.635542,the lord of the rings,"avg=0, med=0, owners=35000",,
+dlc_deduplication,The Lord of the Rings: The Battle for Middle-earth II,"Identical Steam metrics to base game ""The Lord of the Rings: Conquest""",2025-10-16T07:26:27.635566,the lord of the rings,"avg=0, med=0, owners=35000",,
+dlc_deduplication,The Lord of the Rings: The Battle for Middle-earth II -- The Rise of the Witch-king,"Identical Steam metrics to base game ""The Lord of the Rings: Conquest""",2025-10-16T07:26:27.635589,the lord of the rings,"avg=0, med=0, owners=35000",,
+dlc_deduplication,The Lord of the Rings Online: Shadows of Angmar,"Identical Steam metrics to base game ""The Lord of the Rings Online: Riders of Rohan""",2025-10-16T07:26:27.636337,the lord of the rings online,"avg=892, med=300, owners=3500000",,
+dlc_deduplication,The Lord of the Rings Online: Siege of Mirkwood,"Identical Steam metrics to base game ""The Lord of the Rings Online: Riders of Rohan""",2025-10-16T07:26:27.636363,the lord of the rings online,"avg=892, med=300, owners=3500000",,
+dlc_deduplication,The Political Machine,"Identical Steam metrics to base game ""The Political Machine""",2025-10-16T07:26:27.637199,the political machine,"avg=3, med=3, owners=75000",,
+dlc_deduplication,The Settlers: Rise of an Empire,"Identical Steam metrics to base game ""The Settlers: Heritage of Kings""",2025-10-16T07:26:27.638021,the settlers,"avg=0, med=0, owners=10000",,
+dlc_deduplication,The Sims 3: Pets,"Identical Steam metrics to base game ""The Sims 3""",2025-10-16T07:26:27.638909,the sims 3,"avg=4730, med=499, owners=3500000",,
+dlc_deduplication,The Sims 3: Seasons,"Identical Steam metrics to base game ""The Sims 3""",2025-10-16T07:26:27.638940,the sims 3,"avg=4730, med=499, owners=3500000",,
+dlc_deduplication,The Sims 3: Ambitions,"Identical Steam metrics to base game ""The Sims 3""",2025-10-16T07:26:27.638967,the sims 3,"avg=4730, med=499, owners=3500000",,
+dlc_deduplication,The Sims 3: Late Night,"Identical Steam metrics to base game ""The Sims 3""",2025-10-16T07:26:27.638993,the sims 3,"avg=4730, med=499, owners=3500000",,
+dlc_deduplication,The Sims 3: Generations,"Identical Steam metrics to base game ""The Sims 3""",2025-10-16T07:26:27.639020,the sims 3,"avg=4730, med=499, owners=3500000",,
+dlc_deduplication,The Sims 3: Supernatural,"Identical Steam metrics to base game ""The Sims 3""",2025-10-16T07:26:27.639047,the sims 3,"avg=4730, med=499, owners=3500000",,
+dlc_deduplication,The Sims 3: World Adventures,"Identical Steam metrics to base game ""The Sims 3""",2025-10-16T07:26:27.639071,the sims 3,"avg=4730, med=499, owners=3500000",,
+dlc_deduplication,The Witcher 2: Assassins of Kings (Enhanced Edition),"Identical Steam metrics to base game ""The Witcher 2: Assassins of Kings""",2025-10-16T07:26:27.640032,the witcher 2,"avg=838, med=320, owners=3500000",,
+dlc_deduplication,The Witcher 3: Wild Hunt -- Blood and Wine,"Identical Steam metrics to base game ""The Witcher 3: Wild Hunt""",2025-10-16T07:26:27.640882,the witcher 3,"avg=3068, med=2002, owners=7500000",,
+dlc_deduplication,The Witcher 3: Wild Hunt -- Hearts of Stone,"Identical Steam metrics to base game ""The Witcher 3: Wild Hunt""",2025-10-16T07:26:27.640909,the witcher 3,"avg=3068, med=2002, owners=7500000",,
+dlc_deduplication,The Wolf Among Us: Episode 5 -- Cry Wolf,"Identical Steam metrics to base game ""The Wolf Among Us: Episode 1 -- Faith""",2025-10-16T07:26:27.641758,the wolf among us,"avg=675, med=616, owners=1500000",,
+dlc_deduplication,The Wolf Among Us: Episode 3 -- A Crooked Mile,"Identical Steam metrics to base game ""The Wolf Among Us: Episode 1 -- Faith""",2025-10-16T07:26:27.641785,the wolf among us,"avg=675, med=616, owners=1500000",,
+dlc_deduplication,The Wolf Among Us: Episode 2 -- Smoke and Mirrors,"Identical Steam metrics to base game ""The Wolf Among Us: Episode 1 -- Faith""",2025-10-16T07:26:27.641812,the wolf among us,"avg=675, med=616, owners=1500000",,
+dlc_deduplication,The Wolf Among Us: Episode 4 -- In Sheep's Clothing,"Identical Steam metrics to base game ""The Wolf Among Us: Episode 1 -- Faith""",2025-10-16T07:26:27.641837,the wolf among us,"avg=675, med=616, owners=1500000",,
+dlc_deduplication,Tom Clancy's Splinter Cell: Blacklist,"Identical Steam metrics to base game ""Tom Clancy's Splinter Cell""",2025-10-16T07:26:27.643260,tom clancy's splinter cell,"avg=28, med=28, owners=350000",,
+dlc_deduplication,Tom Clancy's Splinter Cell: Conviction,"Identical Steam metrics to base game ""Tom Clancy's Splinter Cell""",2025-10-16T07:26:27.643287,tom clancy's splinter cell,"avg=28, med=28, owners=350000",,
+dlc_deduplication,Tribes: Vengeance,"Identical Steam metrics to base game ""Tribes: Ascend""",2025-10-16T07:26:27.644689,tribes,"avg=128, med=75, owners=3500000",,
+dlc_deduplication,Unreal II: The Awakening (Special Edition),"Identical Steam metrics to base game ""Unreal II: The Awakening""",2025-10-16T07:26:27.646005,unreal ii,"avg=682, med=682, owners=350000",,
+dlc_deduplication,Uru: Path of the Shell,"Identical Steam metrics to base game ""Uru: Ages Beyond Myst""",2025-10-16T07:26:27.646826,uru,"avg=0, med=0, owners=75000",,
+dlc_deduplication,Vietcong: Fist Alpha,"Identical Steam metrics to base game ""Vietcong""",2025-10-16T07:26:27.647672,vietcong,"avg=0, med=0, owners=10000",,
+dlc_deduplication,Warhammer: End Times -- Vermintide,"Identical Steam metrics to base game ""Warhammer: Mark of Chaos""",2025-10-16T07:26:27.648753,warhammer,"avg=1200, med=608, owners=1500000",,
+dlc_deduplication,Warhammer: Mark of Chaos -- Battle March,"Identical Steam metrics to base game ""Warhammer: Mark of Chaos""",2025-10-16T07:26:27.648780,warhammer,"avg=1200, med=608, owners=1500000",,
+dlc_deduplication,Watchmen: The End is Nigh -- Part 2,"Identical Steam metrics to base game ""Watchmen: The End is Nigh -- Part 1""",2025-10-16T07:26:27.649899,watchmen,"avg=0, med=0, owners=35000",,
+dlc_deduplication,World War II: Frontline Command,"Identical Steam metrics to base game ""World War II: Road to Victory""",2025-10-16T07:26:27.651051,world war ii,"avg=0, med=0, owners=35000",,
+dlc_deduplication,X2: Wolverine's Revenge,"Identical Steam metrics to base game ""X2: The Threat""",2025-10-16T07:26:27.651929,x2,"avg=732, med=732, owners=350000",,
+dlc_deduplication,XCOM: Enemy Unknown,"Identical Steam metrics to base game ""XCOM: Enemy Within""",2025-10-16T07:26:27.653024,xcom,"avg=1470, med=1049, owners=3500000",,
+dlc_deduplication,XCOM 2: Alien Hunters,"Identical Steam metrics to base game ""XCOM 2""",2025-10-16T07:26:27.653900,xcom 2,"avg=1891, med=1985, owners=1500000",,
+dlc_deduplication,XCOM 2: Shen's Last Gift,"Identical Steam metrics to base game ""XCOM 2""",2025-10-16T07:26:27.653929,xcom 2,"avg=1891, med=1985, owners=1500000",,
+hltb_validation,Agatha Christie: Death on the Nile,No HLTB completion time data available,2025-10-16T07:38:17.775514,,,Adventure,2008-11-19 00:00:00
+hltb_validation,Age of Conan: Rise of the Godslayer,No HLTB completion time data available,2025-10-16T07:38:17.775920,,,"Action, RPG",2010-06-01 00:00:00
+hltb_validation,American Conquest: Divided Nation,No HLTB completion time data available,2025-10-16T07:38:17.776016,,,Strategy,2006-04-13 00:00:00
+hltb_validation,Anarchy Online: Shadowlands,No HLTB completion time data available,2025-10-16T07:38:17.776057,,,RPG,2003-09-18 00:00:00
+hltb_validation,Apox,No HLTB completion time data available,2025-10-16T07:38:17.776089,,,Strategy,2011-02-25 00:00:00
+hltb_validation,Arcania: Gothic IV,No HLTB completion time data available,2025-10-16T07:38:17.776120,,,"Action, RPG",2010-10-12 00:00:00
+hltb_validation,Baldur's Gate -- Enhanced Edition,No HLTB completion time data available,2025-10-16T07:38:17.776149,,,RPG,2012-11-30 00:00:00
+hltb_validation,Baldur's Gate II -- Enhanced Edition,No HLTB completion time data available,2025-10-16T07:38:17.776217,,,RPG,2013-11-27 00:00:00
+hltb_validation,Baseball Mogul 2004,No HLTB completion time data available,2025-10-16T07:38:17.776471,,,"Sports, Simulation",2003-04-30 00:00:00
+hltb_validation,Baseball Mogul 2009,No HLTB completion time data available,2025-10-16T07:38:17.776579,,,"Sports, Simulation",2008-05-14 00:00:00
+hltb_validation,BattleForge,No HLTB completion time data available,2025-10-16T07:38:17.776787,,,Strategy,2009-04-01 00:00:00
+hltb_validation,Besieger,No HLTB completion time data available,2025-10-16T07:38:17.776888,,,Strategy,2004-06-09 00:00:00
+hltb_validation,Bit.Trip Presents: Runner 2 Future Legend of Rhythm Alien,No HLTB completion time data available,2025-10-16T07:38:17.776964,,,Platformer,2013-02-25 00:00:00
+hltb_validation,Blitzkrieg II,No HLTB completion time data available,2025-10-16T07:38:17.777025,,,Strategy,2005-10-03 00:00:00
+hltb_validation,Bloodline Champions,No HLTB completion time data available,2025-10-16T07:38:17.777064,,,Action,2011-02-25 00:00:00
+hltb_validation,Breach,No HLTB completion time data available,2025-10-16T07:38:17.777097,,,Action,2011-02-07 00:00:00
+hltb_validation,Casino Inc.,No HLTB completion time data available,2025-10-16T07:38:17.777127,,,Casino,2003-04-01 00:00:00
+hltb_validation,Chantelise: A Tale of Two Sisters,No HLTB completion time data available,2025-10-16T07:38:17.777156,,,"Action, RPG",2011-08-12 00:00:00
+hltb_validation,Chaos Theory,No HLTB completion time data available,2025-10-16T07:38:17.777183,,,Puzzle,2008-06-11 00:00:00
+hltb_validation,Clones,No HLTB completion time data available,2025-10-16T07:38:17.777234,,,Strategy,2010-12-03 00:00:00
+hltb_validation,Codename: Panzers: Cold War,No HLTB completion time data available,2025-10-16T07:38:17.777263,,,Strategy,2009-03-09 00:00:00
+hltb_validation,Commander -- Napoleon at War,No HLTB completion time data available,2025-10-16T07:38:17.777290,,,Strategy,2008-11-04 00:00:00
+hltb_validation,Crime Stories,No HLTB completion time data available,2025-10-16T07:38:17.777317,,,Adventure,2006-04-10 00:00:00
+hltb_validation,D-Day,No HLTB completion time data available,2025-10-16T07:38:17.777343,,,Strategy,2004-12-09 00:00:00
+hltb_validation,Diaspora: Shattered Armistice,No HLTB completion time data available,2025-10-16T07:38:17.777371,,,"Flight, Action",2012-10-24 00:00:00
+hltb_validation,Dungeons & Dragons Online: Stormreach,No HLTB completion time data available,2025-10-16T07:38:17.777397,,,RPG,2006-03-22 00:00:00
+hltb_validation,E.Y.E.: Divine Cybermancy,No HLTB completion time data available,2025-10-16T07:38:17.777423,,,Shooter,2011-08-05 00:00:00
+hltb_validation,Empires: Dawn of the Modern World,No HLTB completion time data available,2025-10-16T07:38:17.777449,,,Strategy,2003-10-23 00:00:00
+hltb_validation,ER,No HLTB completion time data available,2025-10-16T07:38:17.777475,,,"Strategy, RPG",2005-06-09 00:00:00
+hltb_validation,FlatOut [2005],No HLTB completion time data available,2025-10-16T07:38:17.777500,,,Racing,2005-07-15 00:00:00
+hltb_validation,Frontline: Fields of Thunder,No HLTB completion time data available,2025-10-16T07:38:17.777526,,,Strategy,2007-04-03 00:00:00
+hltb_validation,Game of Thrones: Episode 1 -- Iron From Ice,No HLTB completion time data available,2025-10-16T07:38:17.777551,,,Adventure,2014-12-02 00:00:00
+hltb_validation,Geo-Political Simulator (2008),No HLTB completion time data available,2025-10-16T07:38:17.777578,,,Simulation,2008-08-05 00:00:00
+hltb_validation,Gettysburg: Armored Warfare,No HLTB completion time data available,2025-10-16T07:38:17.777668,,,Strategy,2012-03-30 00:00:00
+hltb_validation,Gravitron 2,No HLTB completion time data available,2025-10-16T07:38:17.777695,,,Shooter,2008-10-23 00:00:00
+hltb_validation,Guncraft,No HLTB completion time data available,2025-10-16T07:38:17.777720,,,Shooter,2013-08-27 00:00:00
+hltb_validation,Heaven & Hell,No HLTB completion time data available,2025-10-16T07:38:17.777745,,,Strategy,2003-09-24 00:00:00
+hltb_validation,High School Musical 3: Senior Year -- Dance!,No HLTB completion time data available,2025-10-16T07:38:17.777770,,,Music,2008-11-06 00:00:00
+hltb_validation,Hitman: Episode 1,No HLTB completion time data available,2025-10-16T07:38:17.777795,,,Shooter,2016-03-10 00:00:00
+hltb_validation,Hitman: Episode 2,No HLTB completion time data available,2025-10-16T07:38:17.777819,,,Shooter,2016-04-29 00:00:00
+hltb_validation,Hitman: Episode 4,No HLTB completion time data available,2025-10-16T07:38:17.777875,,,Shooter,2016-08-19 00:00:00
+hltb_validation,Hunting Unlimited 2009,No HLTB completion time data available,2025-10-16T07:38:17.777916,,,Hunting,2008-09-11 00:00:00
+hltb_validation,IL-2 Sturmovik: 1946,No HLTB completion time data available,2025-10-16T07:38:17.777946,,,"Flight, Simulation",2007-03-23 00:00:00
+hltb_validation,Inside a Star-Filled Sky,No HLTB completion time data available,2025-10-16T07:38:17.777972,,,Puzzle,2011-03-11 00:00:00
+hltb_validation,Instinct,No HLTB completion time data available,2025-10-16T07:38:17.777998,,,Shooter,2007-08-27 00:00:00
+hltb_validation,Iron Warriors: T-72 Tank Commander,No HLTB completion time data available,2025-10-16T07:38:17.778023,,,Simulation,2006-08-31 00:00:00
+hltb_validation,Joint Operations: Escalation,No HLTB completion time data available,2025-10-16T07:38:17.778048,,,Shooter,2004-11-23 00:00:00
+hltb_validation,Journey to the Center of the Earth,No HLTB completion time data available,2025-10-16T07:38:17.778073,,,Adventure,2004-03-29 00:00:00
+hltb_validation,Kentucky Route Zero: Act 1,No HLTB completion time data available,2025-10-16T07:38:17.778098,,,Adventure,2013-01-11 00:00:00
+hltb_validation,King's Quest -- Episode 1: A Knight to Remember,No HLTB completion time data available,2025-10-16T07:38:17.778124,,,Adventure,2015-07-28 00:00:00
+hltb_validation,Lords of the Realm III,No HLTB completion time data available,2025-10-16T07:38:17.778149,,,Strategy,2004-03-30 00:00:00
+hltb_validation,Magic 2015 -- Duels of the Planewalkers,No HLTB completion time data available,2025-10-16T07:38:17.778173,,,"Card, Battle",2014-07-22 00:00:00
+hltb_validation,Magnetis,No HLTB completion time data available,2025-10-16T07:38:17.778196,,,Puzzle,2010-01-13 00:00:00
+hltb_validation,Marine Park Empire,No HLTB completion time data available,2025-10-16T07:38:17.778219,,,Simulation,2005-10-30 00:00:00
+hltb_validation,Massive Assault,No HLTB completion time data available,2025-10-16T07:38:17.778241,,,Strategy,2003-10-21 00:00:00
+hltb_validation,Monaco,No HLTB completion time data available,2025-10-16T07:38:17.778264,,,Action,2013-04-24 00:00:00
+hltb_validation,Ninja Reflex: Steamworks Edition,No HLTB completion time data available,2025-10-16T07:38:17.778286,,,Party,2008-04-16 00:00:00
+hltb_validation,Orion: Dino Beatdown,No HLTB completion time data available,2025-10-16T07:38:17.778309,,,Shooter,2012-05-14 00:00:00
+hltb_validation,Out of the Park Baseball 10,No HLTB completion time data available,2025-10-16T07:38:17.778331,,,"Sports, Simulation",2009-09-08 00:00:00
+hltb_validation,Painkiller,No HLTB completion time data available,2025-10-16T07:38:17.778353,,,Shooter,2004-04-12 00:00:00
+hltb_validation,Paradise,No HLTB completion time data available,2025-10-16T07:38:17.778376,,,Adventure,2006-05-30 00:00:00
+hltb_validation,Penny Arcade's On the Rain-Slick Precipice of Darkness,No HLTB completion time data available,2025-10-16T07:38:17.778397,,,RPG,2008-06-06 00:00:00
+hltb_validation,Penny Arcade's On the Rain-Slick Precipice of Darkness 2,No HLTB completion time data available,2025-10-16T07:38:17.778420,,,Adventure,2008-12-04 00:00:00
+hltb_validation,Penny Arcade's On the Rain-Slick Precipice of Darkness 3,No HLTB completion time data available,2025-10-16T07:38:17.778442,,,RPG,2012-06-25 00:00:00
+hltb_validation,Penny Arcade's On the Rain-slick Precipice of Darkness 4,No HLTB completion time data available,2025-10-16T07:38:17.778464,,,RPG,2013-06-26 00:00:00
+hltb_validation,Perimeter II: New Earth,No HLTB completion time data available,2025-10-16T07:38:17.778487,,,Strategy,2009-02-20 00:00:00
+hltb_validation,PlanetSide,No HLTB completion time data available,2025-10-16T07:38:17.778509,,,Shooter,2003-06-06 00:00:00
+hltb_validation,Port Royale 2: Cartels Construction & Conquest,No HLTB completion time data available,2025-10-16T07:38:17.778531,,,Simulation,2004-10-06 00:00:00
+hltb_validation,Prime World,No HLTB completion time data available,2025-10-16T07:38:17.778553,,,RPG,2013-10-25 00:00:00
+hltb_validation,R.I.P.D.: The Game,No HLTB completion time data available,2025-10-16T07:38:17.778575,,,Action,2013-07-23 00:00:00
+hltb_validation,Rail Simulator,No HLTB completion time data available,2025-10-16T07:38:17.778597,,,Simulation,2008-02-25 00:00:00
+hltb_validation,Red Orchestra 2: Rising Storm,No HLTB completion time data available,2025-10-16T07:38:17.778619,,,Shooter,2013-06-27 00:00:00
+hltb_validation,Return to Castle Wolfenstein: Enemy Territory,No HLTB completion time data available,2025-10-16T07:38:17.778641,,,Shooter,2003-06-02 00:00:00
+hltb_validation,Roller Coaster Rampage,No HLTB completion time data available,2025-10-16T07:38:17.778663,,,Simulation,2012-07-02 00:00:00
+hltb_validation,Runaway: The Dream of the Turtle,No HLTB completion time data available,2025-10-16T07:38:17.778685,,,Adventure,2007-04-11 00:00:00
+hltb_validation,S.C.S. Dangerous Waters,No HLTB completion time data available,2025-10-16T07:38:17.778707,,,Simulation,2005-02-28 00:00:00
+hltb_validation,Saga,No HLTB completion time data available,2025-10-16T07:38:17.778729,,,Strategy,2008-04-18 00:00:00
+hltb_validation,Seven Kingdoms: Conquest,No HLTB completion time data available,2025-10-16T07:38:17.778751,,,Strategy,2008-05-12 00:00:00
+hltb_validation,Shadowgate -- The Classic Adventure Re-Imagined,No HLTB completion time data available,2025-10-16T07:38:17.778772,,,Adventure,2014-08-22 00:00:00
+hltb_validation,ShootMania Storm,No HLTB completion time data available,2025-10-16T07:38:17.778794,,,Shooter,2013-04-17 00:00:00
+hltb_validation,Shot-Online,No HLTB completion time data available,2025-10-16T07:38:17.778816,,,Sports,2006-09-15 00:00:00
+hltb_validation,Sid Meier's Civilization III: Conquests,No HLTB completion time data available,2025-10-16T07:38:17.778837,,,Strategy,2003-10-31 00:00:00
+hltb_validation,Silent Hunter V: Battle Of The Atlantic,No HLTB completion time data available,2025-10-16T07:38:17.778859,,,Simulation,2010-03-29 00:00:00
+hltb_validation,Simon the Sorcerer: Who'd Even Want Contact?!,No HLTB completion time data available,2025-10-16T07:38:17.778880,,,Adventure,2010-03-22 00:00:00
+hltb_validation,SpaceForce: Rogue Universe,No HLTB completion time data available,2025-10-16T07:38:17.778902,,,Action,2007-07-18 00:00:00
+hltb_validation,Spandex Force,No HLTB completion time data available,2025-10-16T07:38:17.778924,,,Puzzle,2008-04-04 00:00:00
+hltb_validation,Spartan,No HLTB completion time data available,2025-10-16T07:38:17.778945,,,Strategy,2004-06-08 00:00:00
+hltb_validation,Sprint Cars: Road to Knoxville,No HLTB completion time data available,2025-10-16T07:38:17.778967,,,Racing,2006-07-28 00:00:00
+hltb_validation,Star Trek: D-A-C,No HLTB completion time data available,2025-10-16T07:38:17.778989,,,Shooter,2009-11-12 00:00:00
+hltb_validation,Star Wars: Empire at War -- Forces of Corruption,No HLTB completion time data available,2025-10-16T07:38:17.779010,,,Strategy,2006-10-24 00:00:00
+hltb_validation,Star Wars Battlefront [2004],No HLTB completion time data available,2025-10-16T07:38:17.779032,,,Shooter,2004-09-17 00:00:00
+hltb_validation,Sudden Strike 3: Arms for Victory,No HLTB completion time data available,2025-10-16T07:38:17.779053,,,Strategy,2008-05-02 00:00:00
+hltb_validation,Supreme Ruler 2020,No HLTB completion time data available,2025-10-16T07:38:17.779075,,,Strategy,2008-06-27 00:00:00
+hltb_validation,Sword of the Stars,No HLTB completion time data available,2025-10-16T07:38:17.779096,,,Strategy,2006-08-18 00:00:00
+hltb_validation,The Castle Doctrine,No HLTB completion time data available,2025-10-16T07:38:17.779118,,,Strategy,2014-02-04 00:00:00
+hltb_validation,The Earth Defense Force: Insect Armageddon,No HLTB completion time data available,2025-10-16T07:38:17.779139,,,Action,2011-12-15 00:00:00
+hltb_validation,The Game of Life: SpongeBob SquarePants Edition,No HLTB completion time data available,2025-10-16T07:38:17.779162,,,Board,2008-09-10 00:00:00
+hltb_validation,The Political Machine 2008,No HLTB completion time data available,2025-10-16T07:38:17.779183,,,Strategy,2008-06-18 00:00:00
+hltb_validation,The Wolf Among Us: Episode 1 -- Faith,No HLTB completion time data available,2025-10-16T07:38:17.779205,,,Adventure,2013-10-10 00:00:00
+hltb_validation,Theatre of War 2: North Africa 1943,No HLTB completion time data available,2025-10-16T07:38:17.779227,,,Strategy,2009-05-06 00:00:00
+hltb_validation,Universal Combat,No HLTB completion time data available,2025-10-16T07:38:17.779248,,,Strategy,2004-03-02 00:00:00
+hltb_validation,Vanguard: Saga of Heroes,No HLTB completion time data available,2025-10-16T07:38:17.779270,,,RPG,2007-02-27 00:00:00
+hltb_validation,War Rock,No HLTB completion time data available,2025-10-16T07:38:17.779291,,,Action,2007-02-21 00:00:00
+hltb_validation,"Warhammer 40,000: Dawn of War -- Winter Assault",No HLTB completion time data available,2025-10-16T07:38:17.779313,,,Strategy,2005-09-19 00:00:00
+hltb_validation,"Warhammer 40,000: Dawn of War -- Dark Crusade",No HLTB completion time data available,2025-10-16T07:38:17.779335,,,Strategy,2006-10-09 00:00:00
+hltb_validation,"Warhammer 40,000: Dawn of War -- Soulstorm",No HLTB completion time data available,2025-10-16T07:38:17.779356,,,Strategy,2008-03-14 00:00:00
+hltb_validation,"Warhammer 40,000: Dawn of War II -- Chaos Rising",No HLTB completion time data available,2025-10-16T07:38:17.779378,,,Strategy,2010-03-17 00:00:00
+hltb_validation,"Warhammer 40,000: Dawn of War II -- Retribution",No HLTB completion time data available,2025-10-16T07:38:17.779399,,,Strategy,2011-02-25 00:00:00
+hltb_validation,Warrior Kings: Battles,No HLTB completion time data available,2025-10-16T07:38:17.779421,,,Strategy,2003-11-04 00:00:00
+hltb_validation,World of Warplanes,No HLTB completion time data available,2025-10-16T07:38:17.779442,,,Flight,2013-12-17 00:00:00
+hltb_validation,World War II: Road to Victory,No HLTB completion time data available,2025-10-16T07:38:17.779464,,,Strategy,2008-10-14 00:00:00
+hltb_validation,X-Men Origins: Wolverine -- Uncaged Edition,No HLTB completion time data available,2025-10-16T07:38:17.779485,,,Action,2009-04-30 00:00:00
+hltb_validation,You Don't Know Jack 6: The Lost Gold,No HLTB completion time data available,2025-10-16T07:38:17.779507,,,Trivia,2004-01-14 00:00:00
+genre_validation,Colour Bind,Missing genre classification,2025-10-16T07:38:17.791055,,,,2012-10-15 00:00:00

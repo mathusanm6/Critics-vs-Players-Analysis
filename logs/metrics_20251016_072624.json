@@ -1,0 +1,19 @@
+{
+  "stage_counts": {
+    "ign_raw": 18625,
+    "steam_raw": 27075,
+    "ign_clean": 2332,
+    "steam_clean": 27070,
+    "merged": 1433,
+    "after_deduplication": 1220,
+    "hltb_enriched": 1220,
+    "after_hltb_filter": 1107,
+    "after_genre_filter": 1106,
+    "final": 1106
+  },
+  "metrics": {
+    "merge_rate": 61.449399656946824,
+    "hltb_success_rate": 90.73770491803279
+  },
+  "timestamp": "20251016_072624"
+}

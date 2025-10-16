@@ -1,0 +1,56 @@
+{
+  "pipeline_metadata": {
+    "run_timestamp": "20251016_072624",
+    "total_runtime_minutes": null,
+    "config": {
+      "fuzzy_match_threshold": 85,
+      "STEAM_LAUNCH_YEAR": 2003
+    }
+  },
+  "data_sources": {
+    "ign_raw": 18625,
+    "steam_raw": 27075
+  },
+  "pipeline_stages": {
+    "ign_raw": 18625,
+    "steam_raw": 27075,
+    "ign_clean": 2332,
+    "steam_clean": 27070,
+    "merged": 1433,
+    "after_deduplication": 1220,
+    "hltb_enriched": 1220,
+    "after_hltb_filter": 1107,
+    "after_genre_filter": 1106,
+    "final": 1106
+  },
+  "quality_metrics": {
+    "merge_rate": "61.45%",
+    "hltb_success_rate": "90.74%",
+    "total_removals": 327,
+    "final_dataset_size": 1106
+  },
+  "data_completeness": {
+    "complete_records": 1106,
+    "missing_by_column": {
+      "title": 0,
+      "release_date": 0,
+      "genre": 0,
+      "critic_score": 0,
+      "critic_score_phrase": 0,
+      "developer": 0,
+      "publisher": 0,
+      "required_age": 0,
+      "average_playtime": 0,
+      "median_playtime": 0,
+      "owners": 0,
+      "price": 0,
+      "main_story": 0,
+      "main_extra": 0,
+      "completionist": 0,
+      "all_styles": 0
+    }
+  },
+  "outliers": {
+    "high_playtime_games": 1
+  }
+}

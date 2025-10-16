@@ -1,11 +1,20 @@
-kagglehub
-pandas
+# requirements.txt
+
+# Core dependencies
 numpy
+pandas
+fastparquet
+
+# Data visualization
 matplotlib
 seaborn
-plotly
-scipy
-scikit-learn
+
+# Data sources and APIs
+kagglehub
 howlongtobeatpy
-streamlit
-streamlit-plotly-events
+
+# Fuzzy matching
+rapidfuzz
+
+# Progress bars
+tqdm
