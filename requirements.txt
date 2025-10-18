@@ -4,10 +4,13 @@
 numpy
 pandas
 fastparquet
+scipy
+statsmodels
 
 # Data visualization
 matplotlib
 seaborn
+plotly
 
 # Data sources and APIs
 kagglehub
