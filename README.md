@@ -1,6 +1,10 @@
 # Critics vs Players: Should You Send Review Copies?
 
+<div align="center">
+
 [![Open Data Pipeline](https://img.shields.io/badge/📊_Data_Pipeline-Open_Notebook-blue?style=for-the-badge)](./game_data_pipeline.ipynb) [![Open Analysis](https://img.shields.io/badge/📈_Critics_vs_Players-Open_Notebook-green?style=for-the-badge)](./critics_vs_players.ipynb)
+
+</div>
 
 **Data Pipeline**: ETL notebook that integrates IGN reviews, Steam metrics, and HowLongToBeat data into a unified dataset  
 **Critics vs Players**: Interactive analysis exploring the relationship between critic scores, sales, and player engagement
