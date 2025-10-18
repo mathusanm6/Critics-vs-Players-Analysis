@@ -147,7 +147,7 @@ The analysis includes 8 interactive visualizations:
 8. **Sales Distribution by Score** - Violin plots for risk analysis
    - Shows median, mean, variance by score bracket
 
-## � Key Insights for Publishers
+## Key Insights for Publishers
 
 **Based on the analysis:**
 
@@ -162,7 +162,7 @@ The analysis includes 8 interactive visualizations:
 - **Benefits:** Visibility boost, sales multiplier potential, platform featuring opportunities
 - **Genre dependencies:** Impact varies significantly by genre (see faceted analysis)
 
-## �🚫 What This Project Does NOT Cover
+## 🚫 What This Project Does NOT Cover
 
 - Console market dynamics
 - Multiple review sources (Metacritic, user reviews)
