@@ -38,13 +38,13 @@ This analysis examines the relationship between critic scores, sales (owners), p
 
 **Key Finding:** Higher critic scores correlate with increased ownership and player engagement, but the effect varies significantly by genre and price point.
 
-## 🔗 Data Sources
+## Data Sources
 
 - [IGN Games Dataset](https://www.kaggle.com/datasets/joebeachcapital/ign-games) - Critics' ratings and reviews
 - [Steam Games Dataset](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset) - Player engagement and playtime statistics
 - [HowLongToBeat](https://howlongtobeat.com/) - Game completion time data (via API)
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 - **1,106 PC games** (2003-2016)
 - **Sources:** IGN reviews + Steam metrics + HowLongToBeat data
@@ -84,7 +84,7 @@ Interactive visualizations answering:
 - **Revenue Proxy:** `owners_midpoint × price` (estimated revenue)
 - **Completion Ratio:** `main_story / median_playtime` (finishing rate)
 
-## 🔧 Technical Implementation
+## Technical Implementation
 
 ### Requirements
 
@@ -108,7 +108,7 @@ jupyter notebook critics_vs_players.ipynb
 - `output/quality_report_*.json` - Data quality metrics
 - `logs/` - Processing diagnostics
 
-## 📈 Visualizations
+## Visualizations
 
 The analysis includes 8 interactive visualizations:
 
@@ -188,7 +188,7 @@ This analysis provides directional insights but should be combined with:
 - Target audience analysis
 - Competitive landscape review
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - [ ] Add Metacritic aggregate scores
 - [ ] Include user review sentiment
