@@ -196,6 +196,4 @@ This analysis provides directional insights but should be combined with:
 - [ ] Add console data
 - [ ] Machine learning model for ROI prediction
 
----
-
 _Built to explore the publisher's dilemma: Are critic reviews worth the investment?_
